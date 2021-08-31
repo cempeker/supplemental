@@ -1,0 +1,3 @@
+
+coindata.R: Analysis for Coin Flips data (Section 5.1)
+GKSCdata.R: Analysis for General Knowledge and State Capital data (Section 5.2)
