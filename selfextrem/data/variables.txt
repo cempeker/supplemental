@@ -1,0 +1,50 @@
+
+
+The files "study1.csv", "study2.csv" and "study2_nonexp.csv" present the experimental data. Each file includes a panel of subjects and tasks (10 tasks per subject)
+
+study1.csv includes the data from Individual, Crowd-5CG, Crowd-10CG and Crowd-30CG conditions.
+
+study2.csv includes the data from Individual and Contest-10 conditions. Also, expert predictions in Crowd-10 condition are in this data set.
+
+study2_nonexp.csv includes the non-expert (=layperson) predictions in Crowd-10.
+
+
+
+####### Information on variables:
+
+
+PROLIFIC_PID: unique ID of a subject, assigned by Prolific.
+
+exp_cond: experimental condition of the subject.
+
+type: Is subject an expert or a layperson? (applicable in Crowd-10 only)
+
+quiz: subject's response to the quiz question on instructions: 1,2 or 3. (see "experiment instructions").
+
+quiz_correct: Did subject pick the correct answer in the quiz question? (1 or 0).
+
+Duration in seconds: Subject's completion time.
+
+clarity: subject's response to "how clear were the instructions" on a scale 1 to 5 (1: very clear, 5: very unclear)
+
+Gender: 1 if female, 0 if male
+
+xi: subject's prediction on that particular coin
+
+prob_heads: the true probability of heads, unknown to the subject
+
+hnum: Number of heads in 10 flips, "Commonly Observed Flips" (shared signal)
+
+common_flips: Commonly observed flips
+
+hnum_priv: Number of heads in 10 flips, "Your Private Flips" (private signal)
+
+private_flips: Subject's private flips
+
+xi_shared: 10 * hnum (implied prediction based on shared signal only)
+
+xi_private: 10 * hnum_private (implied prediction based on private signal only)
+
+imputed omega: subject's omega in that task, calculated as described in the paper. Equals to "NA" if the subject is a layperson (no private signal) or shared signal = private signal in a given coin (imputed weights cannot be computed)
+
+

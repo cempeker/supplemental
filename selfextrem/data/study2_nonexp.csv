@@ -1,0 +1,471 @@
+"PROLIFIC_PID","exp_cond","type","quiz","quiz_correct","Duration..in.seconds.","clarity","age","Nationality","Gender","xi","prob_heads","hnum","common_flips","xi_shared"
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"46",0.68,5,"HTHHTTHTHT",50
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"41",0.47,4,"TTHTHHTHTT",40
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"42",0.52,7,"HHTHHHHTTH",70
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"30",0.28,3,"HTTTTTTHTH",30
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"38",0.52,6,"HTHTTTHHHH",60
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"23",0.47,5,"HHTTTHTHHT",50
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"42",0.26,2,"TTTHHTTTTT",20
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"22",0.47,5,"THTHTHHTTH",50
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"25",0.44,5,"HTHHTHTHTT",50
+"58c376f9efb64f0001358464","crowd10","nonexpert","2",0,"221","1",35,"United States",1,"53",0.6,6,"HHTHTHHTHT",60
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"70",0.52,7,"HHTHHHHTTH",70
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"20",0.26,2,"TTTHHTTTTT",20
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"50",0.68,5,"HTHHTTHTHT",50
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"40",0.47,4,"TTHTHHTHTT",40
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"50",0.47,5,"THTHTHHTTH",50
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"57",0.52,6,"HTHTTTHHHH",60
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"57",0.6,6,"HHTHTHHTHT",60
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"30",0.28,3,"HTTTTTTHTH",30
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"50",0.47,5,"HHTTTHTHHT",50
+"5b2fb4b86d601d0001d5d7ff","crowd10","nonexpert","1",1,"194","2",26,"United States",0,"50",0.44,5,"HTHHTHTHTT",50
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"50",0.68,5,"HTHHTTHTHT",50
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"50",0.47,5,"HHTTTHTHHT",50
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"30",0.28,3,"HTTTTTTHTH",30
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"60",0.52,6,"HTHTTTHHHH",60
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"41",0.47,4,"TTHTHHTHTT",40
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"24",0.26,2,"TTTHHTTTTT",20
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"50",0.47,5,"THTHTHHTTH",50
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"51",0.44,5,"HTHHTHTHTT",50
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"61",0.6,6,"HHTHTHHTHT",60
+"5c144f5bb439140001543faf","crowd10","nonexpert","1",1,"140","1",24,"Nigeria",1,"62",0.52,7,"HHTHHHHTTH",70
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"30",0.37,3,"HTTTTTTTHH",30
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"30",0.39,3,"TTHHTTTTTH",30
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"40",0.56,4,"TTTHHTTTHH",40
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"90",0.46,9,"THHHHHHHHH",90
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"80",0.48,8,"HHHTHHTHHH",80
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"50",0.64,5,"THHHTHTTTH",50
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"60",0.72,6,"TTHTHTHHHH",60
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"70",0.74,7,"HHTTHHHTHH",70
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"50",0.69,5,"THTHHTHTTH",50
+"5c5ca44631c89c0001bae924","crowd10","nonexpert","1",1,"219","1",20,"United States",0,"80",0.68,8,"HTHTHHHHHH",80
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"56",0.52,3,"HTTTTHTTTH",30
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"52",0.72,8,"HHHHHHTTHH",80
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"45",0.44,3,"TTTHHTHTTT",30
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"52",0.58,8,"HTHTHHHHHH",80
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"49",0.43,5,"HTHTHTHTHT",50
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"65",0.32,1,"TTHTTTTTTT",10
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"67",0.33,2,"TTHTTHTTTT",20
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"56",0.4,6,"HHHTHTTHHT",60
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"56",0.51,6,"HHTHHTHHTT",60
+"5d2787f7e9b2a00018221059","crowd10","nonexpert","1",1,"197","2",32,"United States",0,"41",0.47,7,"HHHTTHHTHH",70
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"62",0.4,6,"HHHTHTTHHT",60
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"23",0.33,2,"TTHTTHTTTT",20
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"70",0.47,7,"HHHTTHHTHH",70
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"11",0.32,1,"TTHTTTTTTT",10
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"85",0.58,8,"HTHTHHHHHH",80
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"60",0.51,6,"HHTHHTHHTT",60
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"50",0.43,5,"HTHTHTHTHT",50
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"77",0.72,8,"HHHHHHTTHH",80
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"30",0.52,3,"HTTTTHTTTH",30
+"5d377c902c4f810001ebc27a","crowd10","nonexpert","1",1,"176","2",22,"United States",1,"30",0.44,3,"TTTHHTHTTT",30
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"50",0.69,5,"THTHHTHTTH",50
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"50",0.64,5,"THHHTHTTTH",50
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"30",0.37,3,"HTTTTTTTHH",30
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"80",0.68,8,"HTHTHHHHHH",80
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"90",0.46,9,"THHHHHHHHH",90
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"80",0.48,8,"HHHTHHTHHH",80
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"30",0.39,3,"TTHHTTTTTH",30
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"60",0.72,6,"TTHTHTHHHH",60
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"70",0.74,7,"HHTTHHHTHH",70
+"5d9a09095223b6001809f1c9","crowd10","nonexpert","1",1,"331","1",21,"United States",0,"40",0.56,4,"TTTHHTTTHH",40
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"54",0.43,5,"HTHTHTHTHT",50
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"16",0.32,1,"TTHTTTTTTT",10
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"75",0.72,8,"HHHHHHTTHH",80
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"65",0.47,7,"HHHTTHHTHH",70
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"85",0.58,8,"HTHTHHHHHH",80
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"26",0.33,2,"TTHTTHTTTT",20
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"22",0.52,3,"HTTTTHTTTH",30
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"63",0.51,6,"HHTHHTHHTT",60
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"30",0.44,3,"TTTHHTHTTT",30
+"5e3760815bfa436fd256b2e9","crowd10","nonexpert","3",0,"213","3",26,"United States",0,"67",0.4,6,"HHHTHTTHHT",60
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"64",0.53,6,"THHHHTHTTH",60
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"56",0.61,6,"TTHHHHHHTT",60
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"52",0.62,5,"THTHTTHTHH",50
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"13",0.26,1,"TTTTTTTTTH",10
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"36",0.42,4,"TTTHHHTTHT",40
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"27",0.46,3,"TTTTHTTHTH",30
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"44",0.61,4,"THTHTTHTHT",40
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"46",0.32,5,"THHTHTTTHH",50
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"45",0.32,4,"HHTTHTTHTT",40
+"5e3ce3cfad15630d23cffb70","crowd10","nonexpert","1",1,"530","1",26,"United States",1,"12",0.39,1,"TTTTHTTTTT",10
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"43",0.44,5,"HTHHTHTHTT",50
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"23",0.26,2,"TTTHHTTTTT",20
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"50",0.6,6,"HHTHTHHTHT",60
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"40",0.68,5,"HTHHTTHTHT",50
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"43",0.47,4,"TTHTHHTHTT",40
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"67",0.52,7,"HHTHHHHTTH",70
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"55",0.47,5,"HHTTTHTHHT",50
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"48",0.47,5,"THTHTHHTTH",50
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"57",0.52,6,"HTHTTTHHHH",60
+"5e6fe86f7245355b33d7b045","crowd10","nonexpert","1",1,"205","1",18,"United States",1,"37",0.28,3,"HTTTTTTHTH",30
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"45",0.47,4,"TTHTHHTHTT",40
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"67",0.44,5,"HTHHTHTHTT",50
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"50",0.47,5,"HHTTTHTHHT",50
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"43",0.68,5,"HTHHTTHTHT",50
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"34",0.26,2,"TTTHHTTTTT",20
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"63",0.47,5,"THTHTHHTTH",50
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"74",0.52,6,"HTHTTTHHHH",60
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"78",0.6,6,"HHTHTHHTHT",60
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"83",0.52,7,"HHTHHHHTTH",70
+"5e8bfbac740eba0efdd22720","crowd10","nonexpert","1",1,"465","1",18,"United States",0,"58",0.28,3,"HTTTTTTHTH",30
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"11",0.39,1,"TTTTHTTTTT",10
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"49",0.61,4,"THTHTTHTHT",40
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"40",0.32,4,"HHTTHTTHTT",40
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"40",0.42,4,"TTTHHHTTHT",40
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"50",0.32,5,"THHTHTTTHH",50
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"12",0.26,1,"TTTTTTTTTH",10
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"50",0.62,5,"THTHTTHTHH",50
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"34",0.46,3,"TTTTHTTHTH",30
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"55",0.53,6,"THHHHTHTTH",60
+"5ec84d1f05a907309e843a6d","crowd10","nonexpert","1",1,"747","1",27,"Netherlands",1,"51",0.61,6,"TTHHHHHHTT",60
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"30",0.52,3,"HTTTTHTTTH",30
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"10",0.32,1,"TTHTTTTTTT",10
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"30",0.44,3,"TTTHHTHTTT",30
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"70",0.47,7,"HHHTTHHTHH",70
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"60",0.4,6,"HHHTHTTHHT",60
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"80",0.72,8,"HHHHHHTTHH",80
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"80",0.58,8,"HTHTHHHHHH",80
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"20",0.33,2,"TTHTTHTTTT",20
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"60",0.51,6,"HHTHHTHHTT",60
+"5ed51c6f5d422206feb86408","crowd10","nonexpert","1",1,"854","1",21,"United States",0,"50",0.43,5,"HTHTHTHTHT",50
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"10",0.26,1,"TTTTTTTTTH",10
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"30",0.46,3,"TTTTHTTHTH",30
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"60",0.53,6,"THHHHTHTTH",60
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"40",0.61,4,"THTHTTHTHT",40
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"40",0.42,4,"TTTHHHTTHT",40
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"50",0.62,5,"THTHTTHTHH",50
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"40",0.32,4,"HHTTHTTHTT",40
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"10",0.39,1,"TTTTHTTTTT",10
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"50",0.32,5,"THHTHTTTHH",50
+"5ee7b704d68ba90779ddc51e","crowd10","nonexpert","1",1,"223","1",22,"United States",1,"60",0.61,6,"TTHHHHHHTT",60
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"9",0.26,1,"TTTTTTTTTH",10
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"60",0.53,6,"THHHHTHTTH",60
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"30",0.46,3,"TTTTHTTHTH",30
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"40",0.61,4,"THTHTTHTHT",40
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"35",0.32,4,"HHTTHTTHTT",40
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"18",0.39,1,"TTTTHTTTTT",10
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"50",0.32,5,"THHTHTTTHH",50
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"60",0.61,6,"TTHHHHHHTT",60
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"41",0.42,4,"TTTHHHTTHT",40
+"5eeecd39835e230008e25a98","crowd10","nonexpert","1",1,"180","2",19,"United States",1,"55",0.62,5,"THTHTTHTHH",50
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"60",0.4,6,"HHHTHTTHHT",60
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"60",0.51,6,"HHTHHTHHTT",60
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"20",0.33,2,"TTHTTHTTTT",20
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"70",0.47,7,"HHHTTHHTHH",70
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"50",0.43,5,"HTHTHTHTHT",50
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"32",0.52,3,"HTTTTHTTTH",30
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"30",0.44,3,"TTTHHTHTTT",30
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"70",0.72,8,"HHHHHHTTHH",80
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"76",0.58,8,"HTHTHHHHHH",80
+"5f00b0999d47481d1dfae94b","crowd10","nonexpert","1",1,"137","1",23,"United States",1,"20",0.32,1,"TTHTTTTTTT",10
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.58,8,"HTHTHHHHHH",80
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.52,3,"HTTTTHTTTH",30
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.72,8,"HHHHHHTTHH",80
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.43,5,"HTHTHTHTHT",50
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.32,1,"TTHTTTTTTT",10
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.51,6,"HHTHHTHHTT",60
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.33,2,"TTHTTHTTTT",20
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.4,6,"HHHTHTTHHT",60
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.47,7,"HHHTTHHTHH",70
+"5f07070d75038e05e9fcf515","crowd10","nonexpert","1",1,"476","1",21,"United States",0,"50",0.44,3,"TTTHHTHTTT",30
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"70",0.74,7,"HHTTHHHTHH",70
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"30",0.37,3,"HTTTTTTTHH",30
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"40",0.56,4,"TTTHHTTTHH",40
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"80",0.48,8,"HHHTHHTHHH",80
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"90",0.46,9,"THHHHHHHHH",90
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"60",0.72,6,"TTHTHTHHHH",60
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"50",0.64,5,"THHHTHTTTH",50
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"50",0.69,5,"THTHHTHTTH",50
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"30",0.39,3,"TTHHTTTTTH",30
+"5f0c7a8888ae1a0b6dd68c12","crowd10","nonexpert","3",0,"205","2",23,"Vietnam",0,"80",0.68,8,"HTHTHHHHHH",80
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.51,6,"HHTHHTHHTT",60
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.44,3,"TTTHHTHTTT",30
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"10",0.32,1,"TTHTTTTTTT",10
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.52,3,"HTTTTHTTTH",30
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.58,8,"HTHTHHHHHH",80
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.72,8,"HHHHHHTTHH",80
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.47,7,"HHHTTHHTHH",70
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"54",0.43,5,"HTHTHTHTHT",50
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.33,2,"TTHTTHTTTT",20
+"5f107c6bf1db6e318d608d41","crowd10","nonexpert","1",1,"384","3",26,"United States",0,"50",0.4,6,"HHHTHTTHHT",60
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"31",0.52,3,"HTTTTHTTTH",30
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"2",0.32,1,"TTHTTTTTTT",10
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"30",0.44,3,"TTTHHTHTTT",30
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"69",0.47,7,"HHHTTHHTHH",70
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"59",0.4,6,"HHHTHTTHHT",60
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"80",0.58,8,"HTHTHHHHHH",80
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"19",0.33,2,"TTHTTHTTTT",20
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"59",0.51,6,"HHTHHTHHTT",60
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"51",0.43,5,"HTHTHTHTHT",50
+"5f110cddf840aa45fed05416","crowd10","nonexpert","1",1,"328","1",26,"United States",1,"79",0.72,8,"HHHHHHTTHH",80
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"43",0.42,4,"TTTHHHTTHT",40
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"38",0.32,4,"HHTTHTTHTT",40
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"48",0.26,1,"TTTTTTTTTH",10
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"89",0.62,5,"THTHTTHTHH",50
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"61",0.61,6,"TTHHHHHHTT",60
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"52",0.32,5,"THHTHTTTHH",50
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"59",0.53,6,"THHHHTHTTH",60
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"31",0.46,3,"TTTTHTTHTH",30
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"42",0.61,4,"THTHTTHTHT",40
+"5f1b7a5177b57e37b2357a74","crowd10","nonexpert","1",1,"173","2",28,"United States",0,"5",0.39,1,"TTTTHTTTTT",10
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"66",0.48,8,"HHHTHHTHHH",80
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"40",0.37,3,"HTTTTTTTHH",30
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"58",0.72,6,"TTHTHTHHHH",60
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"52",0.69,5,"THTHHTHTTH",50
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"50",0.64,5,"THHHTHTTTH",50
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"67",0.68,8,"HTHTHHHHHH",80
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"40",0.39,3,"TTHHTTTTTH",30
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"51",0.74,7,"HHTTHHHTHH",70
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"45",0.56,4,"TTTHHTTTHH",40
+"5f372b8b5ed4a11af3a56aee","crowd10","nonexpert","1",1,"269","2",19,"United States",1,"71",0.46,9,"THHHHHHHHH",90
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"25",0.37,3,"HTTTTTTTHH",30
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"50",0.69,5,"THTHHTHTTH",50
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"75",0.48,8,"HHHTHHTHHH",80
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"40",0.56,4,"TTTHHTTTHH",40
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"60",0.72,6,"TTHTHTHHHH",60
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"69",0.74,7,"HHTTHHHTHH",70
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"85",0.46,9,"THHHHHHHHH",90
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"25",0.39,3,"TTHHTTTTTH",30
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"75",0.68,8,"HTHTHHHHHH",80
+"5f3fed51f83f230a5bddb85e","crowd10","nonexpert","1",1,"310","1",20,"United States",1,"50",0.64,5,"THHHTHTTTH",50
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"50",0.47,5,"THTHTHHTTH",50
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"50",0.44,5,"HTHHTHTHTT",50
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"50",0.47,5,"HHTTTHTHHT",50
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"70",0.52,7,"HHTHHHHTTH",70
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"30",0.28,3,"HTTTTTTHTH",30
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"50",0.68,5,"HTHHTTHTHT",50
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"60",0.52,6,"HTHTTTHHHH",60
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"60",0.6,6,"HHTHTHHTHT",60
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"40",0.47,4,"TTHTHHTHTT",40
+"5f447effce2acb7bc4597091","crowd10","nonexpert","2",0,"191","2",24,"United States",0,"20",0.26,2,"TTTHHTTTTT",20
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"60",0.6,6,"HHTHTHHTHT",60
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"60",0.52,6,"HTHTTTHHHH",60
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"50",0.47,5,"HHTTTHTHHT",50
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"50",0.68,5,"HTHHTTHTHT",50
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"70",0.52,7,"HHTHHHHTTH",70
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"20",0.26,2,"TTTHHTTTTT",20
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"50",0.47,5,"THTHTHHTTH",50
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"40",0.47,4,"TTHTHHTHTT",40
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"30",0.28,3,"HTTTTTTHTH",30
+"5f48838ac3368e229f09fba6","crowd10","nonexpert","1",1,"310","1",41,"United States",1,"50",0.44,5,"HTHHTHTHTT",50
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"20",0.26,2,"TTTHHTTTTT",20
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"50",0.47,5,"HHTTTHTHHT",50
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"55",0.52,6,"HTHTTTHHHH",60
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"70",0.52,7,"HHTHHHHTTH",70
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"60",0.6,6,"HHTHTHHTHT",60
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"50",0.44,5,"HTHHTHTHTT",50
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"40",0.47,4,"TTHTHHTHTT",40
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"30",0.28,3,"HTTTTTTHTH",30
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"50",0.68,5,"HTHHTTHTHT",50
+"5f4982381c7d044e24c51335","crowd10","nonexpert","1",1,"177","2",21,"United States",1,"50",0.47,5,"THTHTHHTTH",50
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"41",0.39,3,"TTHHTTTTTH",30
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"70",0.64,5,"THHHTHTTTH",50
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"74",0.74,7,"HHTTHHHTHH",70
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"40",0.37,3,"HTTTTTTTHH",30
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"90",0.48,8,"HHHTHHTHHH",80
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"80",0.68,8,"HTHTHHHHHH",80
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"90",0.46,9,"THHHHHHHHH",90
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"70",0.72,6,"TTHTHTHHHH",60
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"61",0.69,5,"THTHHTHTTH",50
+"5f4bf2e580c2b70c387dd6ec","crowd10","nonexpert","1",1,"564","1",18,"United States",1,"50",0.56,4,"TTTHHTTTHH",40
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.61,6,"TTHHHHHHTT",60
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.32,5,"THHTHTTTHH",50
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.26,1,"TTTTTTTTTH",10
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.39,1,"TTTTHTTTTT",10
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.53,6,"THHHHTHTTH",60
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.32,4,"HHTTHTTHTT",40
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.42,4,"TTTHHHTTHT",40
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.46,3,"TTTTHTTHTH",30
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.62,5,"THTHTTHTHH",50
+"5f4c19c3d8bdca845e376be9","crowd10","nonexpert","1",1,"94","1",22,"Korea",0,"50",0.61,4,"THTHTTHTHT",40
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"78",0.68,8,"HTHTHHHHHH",80
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"89",0.46,9,"THHHHHHHHH",90
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"34",0.37,3,"HTTTTTTTHH",30
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"70",0.74,7,"HHTTHHHTHH",70
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"50",0.69,5,"THTHHTHTTH",50
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"78",0.48,8,"HHHTHHTHHH",80
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"42",0.56,4,"TTTHHTTTHH",40
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"50",0.64,5,"THHHTHTTTH",50
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"34",0.39,3,"TTHHTTTTTH",30
+"5f4c5880cb080188086a76da","crowd10","nonexpert","1",1,"150","1",19,"Germany",0,"59",0.72,6,"TTHTHTHHHH",60
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"80",0.68,8,"HTHTHHHHHH",80
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"81",0.48,8,"HHHTHHTHHH",80
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"40",0.56,4,"TTTHHTTTHH",40
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"49",0.69,5,"THTHHTHTTH",50
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"72",0.74,7,"HHTTHHHTHH",70
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"65",0.72,6,"TTHTHTHHHH",60
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"85",0.46,9,"THHHHHHHHH",90
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"30",0.37,3,"HTTTTTTTHH",30
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"51",0.64,5,"THHHTHTTTH",50
+"5f4fe72e9468441227166179","crowd10","nonexpert","1",1,"156","2",20,"United States",0,"32",0.39,3,"TTHHTTTTTH",30
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"40",0.32,5,"THHTHTTTHH",50
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"60",0.61,6,"TTHHHHHHTT",60
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"10",0.26,1,"TTTTTTTTTH",10
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"60",0.53,6,"THHHHTHTTH",60
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"40",0.46,3,"TTTTHTTHTH",30
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"40",0.61,4,"THTHTTHTHT",40
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"20",0.39,1,"TTTTHTTTTT",10
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"50",0.62,5,"THTHTTHTHH",50
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"50",0.32,4,"HHTTHTTHTT",40
+"5f5055689089361cd73eed85","crowd10","nonexpert","3",0,"232","1",21,"United States",1,"30",0.42,4,"TTTHHHTTHT",40
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"8",0.26,1,"TTTTTTTTTH",10
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"69",0.53,6,"THHHHTHTTH",60
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"71",0.61,6,"TTHHHHHHTT",60
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"57",0.62,5,"THTHTTHTHH",50
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"46",0.32,5,"THHTHTTTHH",50
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"15",0.39,1,"TTTTHTTTTT",10
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"33",0.61,4,"THTHTTHTHT",40
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"26",0.46,3,"TTTTHTTHTH",30
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"44",0.42,4,"TTTHHHTTHT",40
+"5f67bcf82cfb803f8c8f2ab1","crowd10","nonexpert","1",1,"204","1",19,"United States",0,"35",0.32,4,"HHTTHTTHTT",40
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"60",0.42,4,"TTTHHHTTHT",40
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"75",0.32,4,"HHTTHTTHTT",40
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"22",0.39,1,"TTTTHTTTTT",10
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"89",0.61,6,"TTHHHHHHTT",60
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"45",0.46,3,"TTTTHTTHTH",30
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"82",0.53,6,"THHHHTHTTH",60
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"65",0.62,5,"THTHTTHTHH",50
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"80",0.32,5,"THHTHTTTHH",50
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"50",0.61,4,"THTHTTHTHT",40
+"5f6a613e2a8b9e122456fc3e","crowd10","nonexpert","1",1,"233","2",28,"United States",0,"16",0.26,1,"TTTTTTTTTH",10
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"71",0.47,7,"HHHTTHHTHH",70
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"80",0.58,8,"HTHTHHHHHH",80
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"80",0.72,8,"HHHHHHTTHH",80
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"60",0.51,6,"HHTHHTHHTT",60
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"30",0.44,3,"TTTHHTHTTT",30
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"20",0.33,2,"TTHTTHTTTT",20
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"30",0.52,3,"HTTTTHTTTH",30
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"50",0.43,5,"HTHTHTHTHT",50
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"60",0.4,6,"HHHTHTTHHT",60
+"5f7e6aebce232a1501763e5d","crowd10","nonexpert","1",1,"183","1",30,"United States",1,"15",0.32,1,"TTHTTTTTTT",10
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"20",0.26,2,"TTTHHTTTTT",20
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"50",0.44,5,"HTHHTHTHTT",50
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"37",0.47,4,"TTHTHHTHTT",40
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"56",0.52,6,"HTHTTTHHHH",60
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"27",0.28,3,"HTTTTTTHTH",30
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"67",0.52,7,"HHTHHHHTTH",70
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"65",0.6,6,"HHTHTHHTHT",60
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"53",0.47,5,"THTHTHHTTH",50
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"51",0.47,5,"HHTTTHTHHT",50
+"5f888a53fc3151038a465da1","crowd10","nonexpert","1",1,"164","1",21,"United States",0,"48",0.68,5,"HTHHTTHTHT",50
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"70",0.74,7,"HHTTHHHTHH",70
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"50",0.69,5,"THTHHTHTTH",50
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"40",0.56,4,"TTTHHTTTHH",40
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"50",0.64,5,"THHHTHTTTH",50
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"80",0.48,8,"HHHTHHTHHH",80
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"30",0.37,3,"HTTTTTTTHH",30
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"60",0.72,6,"TTHTHTHHHH",60
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"90",0.46,9,"THHHHHHHHH",90
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"30",0.39,3,"TTHHTTTTTH",30
+"5f91e73c22a18d0d03dc4d49","crowd10","nonexpert","3",0,"130","1",20,"United States",0,"80",0.68,8,"HTHTHHHHHH",80
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"42",0.56,4,"TTTHHTTTHH",40
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"69",0.74,7,"HHTTHHHTHH",70
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"60",0.72,6,"TTHTHTHHHH",60
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"78",0.68,8,"HTHTHHHHHH",80
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"50",0.69,5,"THTHHTHTTH",50
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"50",0.64,5,"THHHTHTTTH",50
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"78",0.48,8,"HHHTHHTHHH",80
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"89",0.46,9,"THHHHHHHHH",90
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"33",0.39,3,"TTHHTTTTTH",30
+"5fa9df06ebb0bd2902582340","crowd10","nonexpert","1",1,"231","2",25,"United States",0,"33",0.37,3,"HTTTTTTTHH",30
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"43",0.56,4,"TTTHHTTTHH",40
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"16",0.39,3,"TTHHTTTTTH",30
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"71",0.74,7,"HHTTHHHTHH",70
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"84",0.68,8,"HTHTHHHHHH",80
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"80",0.48,8,"HHHTHHTHHH",80
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"60",0.72,6,"TTHTHTHHHH",60
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"50",0.64,5,"THHHTHTTTH",50
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"54",0.69,5,"THTHHTHTTH",50
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"90",0.46,9,"THHHHHHHHH",90
+"5fb31df46562cda27fcd43c6","crowd10","nonexpert","1",1,"275","1",25,"United States",1,"30",0.37,3,"HTTTTTTTHH",30
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"60",0.72,8,"HHHHHHTTHH",80
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"40",0.44,3,"TTTHHTHTTT",30
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"50",0.43,5,"HTHTHTHTHT",50
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"60",0.47,7,"HHHTTHHTHH",70
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"70",0.58,8,"HTHTHHHHHH",80
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"30",0.33,2,"TTHTTHTTTT",20
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"40",0.52,3,"HTTTTHTTTH",30
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"20",0.32,1,"TTHTTTTTTT",10
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"54",0.4,6,"HHHTHTTHHT",60
+"5fb732a0e80f072527639ffc","crowd10","nonexpert","1",1,"197","1",40,"United States",1,"50",0.51,6,"HHTHHTHHTT",60
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"28",0.28,3,"HTTTTTTHTH",30
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"52",0.47,5,"HHTTTHTHHT",50
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"63",0.52,6,"HTHTTTHHHH",60
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"48",0.47,5,"THTHTHHTTH",50
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"63",0.6,6,"HHTHTHHTHT",60
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"72",0.52,7,"HHTHHHHTTH",70
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"51",0.44,5,"HTHHTHTHTT",50
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"52",0.68,5,"HTHHTTHTHT",50
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"19",0.26,2,"TTTHHTTTTT",20
+"5fbd53e560eba90dfc84772d","crowd10","nonexpert","1",1,"239","1",21,"Palestinian Territory",0,"41",0.47,4,"TTHTHHTHTT",40
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"11",0.39,1,"TTTTHTTTTT",10
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"64",0.62,5,"THTHTTHTHH",50
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"40",0.42,4,"TTTHHHTTHT",40
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"46",0.61,4,"THTHTTHTHT",40
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"60",0.61,6,"TTHHHHHHTT",60
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"45",0.32,4,"HHTTHTTHTT",40
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"30",0.46,3,"TTTTHTTHTH",30
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"50",0.32,5,"THHTHTTTHH",50
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"70",0.53,6,"THHHHTHTTH",60
+"5fbdc24c6d7411225e16b180","crowd10","nonexpert","1",1,"276","1",24,"India",1,"10",0.26,1,"TTTTTTTTTH",10
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"55",0.51,6,"HHTHHTHHTT",60
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"54",0.47,7,"HHHTTHHTHH",70
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"45",0.43,5,"HTHTHTHTHT",50
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"47",0.52,3,"HTTTTHTTTH",30
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"31",0.32,1,"TTHTTTTTTT",10
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"63",0.72,8,"HHHHHHTTHH",80
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"42",0.33,2,"TTHTTHTTTT",20
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"60",0.58,8,"HTHTHHHHHH",80
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"45",0.44,3,"TTTHHTHTTT",30
+"5fbe800c0ec001000a607f8d","crowd10","nonexpert","1",1,"342","2",24,"United States",0,"56",0.4,6,"HHHTHTTHHT",60
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"70",0.52,7,"HHTHHHHTTH",70
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"50",0.47,5,"THTHTHHTTH",50
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"49",0.68,5,"HTHHTTHTHT",50
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"60",0.52,6,"HTHTTTHHHH",60
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"30",0.26,2,"TTTHHTTTTT",20
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"40",0.47,4,"TTHTHHTHTT",40
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"60",0.47,5,"HHTTTHTHHT",50
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"50",0.44,5,"HTHHTHTHTT",50
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"30",0.28,3,"HTTTTTTHTH",30
+"5fc5688cee11d40b6b0ca6f3","crowd10","nonexpert","1",1,"363","2",18,"Brazil",0,"75",0.6,6,"HHTHTHHTHT",60
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"43",0.28,3,"HTTTTTTHTH",30
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"45",0.52,6,"HTHTTTHHHH",60
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"61",0.52,7,"HHTHHHHTTH",70
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"29",0.26,2,"TTTHHTTTTT",20
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"50",0.47,5,"HHTTTHTHHT",50
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"53",0.68,5,"HTHHTTHTHT",50
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"50",0.47,5,"THTHTHHTTH",50
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"26",0.47,4,"TTHTHHTHTT",40
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"50",0.44,5,"HTHHTHTHTT",50
+"5fc5949843622e10a1b25572","crowd10","nonexpert","1",1,"515","1",28,"",0,"70",0.6,6,"HHTHTHHTHT",60
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.32,5,"THHTHTTTHH",50
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"40",0.46,3,"TTTTHTTHTH",30
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.42,4,"TTTHHHTTHT",40
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.32,4,"HHTTHTTHTT",40
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.61,6,"TTHHHHHHTT",60
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"8",0.26,1,"TTTTTTTTTH",10
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"8",0.39,1,"TTTTHTTTTT",10
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.53,6,"THHHHTHTTH",60
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.62,5,"THTHTTHTHH",50
+"5fc5ae39fb16f61403f3b684","crowd10","nonexpert","1",1,"270","1",18,"United States",1,"50",0.61,4,"THTHTTHTHT",40
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"67",0.58,8,"HTHTHHHHHH",80
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"35",0.32,1,"TTHTTTTTTT",10
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"98",0.47,7,"HHHTTHHTHH",70
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"63",0.4,6,"HHHTHTTHHT",60
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"54",0.43,5,"HTHTHTHTHT",50
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"20",0.52,3,"HTTTTHTTTH",30
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"44",0.33,2,"TTHTTHTTTT",20
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"82",0.72,8,"HHHHHHTTHH",80
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"79",0.44,3,"TTTHHTHTTT",30
+"5fc91d4eca466536baeffc93","crowd10","nonexpert","3",0,"222","2",33,"Peru",1,"61",0.51,6,"HHTHHTHHTT",60
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"35",0.42,4,"TTTHHHTTHT",40
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"15",0.26,1,"TTTTTTTTTH",10
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"60",0.62,5,"THTHTTHTHH",50
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"50",0.32,5,"THHTHTTTHH",50
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"40",0.46,3,"TTTTHTTHTH",30
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"55",0.53,6,"THHHHTHTTH",60
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"10",0.39,1,"TTTTHTTTTT",10
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"60",0.61,6,"TTHHHHHHTT",60
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"40",0.61,4,"THTHTTHTHT",40
+"5fceb8342eb3f717cf22535d","crowd10","nonexpert","1",1,"356","1",29,"South Africa",1,"40",0.32,4,"HHTTHTTHTT",40
