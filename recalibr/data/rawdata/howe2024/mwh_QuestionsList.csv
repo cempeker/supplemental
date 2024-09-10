@@ -1,0 +1,491 @@
+Experiment,QuestionNumber,QuestionLabel,Outcome1,Outcome2,CorrectOutcomeLabel,CorrectOutcomeLogical
+1,1,"In the 2018 NFL draft, Mark Andrews was drafted by the Minnesota Vikings",TRUE,FALSE,FALSE,0
+1,2,"In the 2018 NFL draft, Alabama was one of the schools with no players drafted that year",TRUE,FALSE,FALSE,0
+1,3,"In the 2018 NFL draft, the New York Giants were the only team to draft a player out of FCS champion North Dakota State University",TRUE,FALSE,FALSE,0
+1,4,"In the 2018 NFL draft, Nathan Shepard was drafted by the New York Jets",TRUE,FALSE,TRUE,1
+1,5,"In the 2018 NFL draft, the Baltimore Ravens were the team to have the most draft picks that year",TRUE,FALSE,TRUE,1
+1,6,"In the 2018 NFL draft, the Los Angeles Rams drafted Jordan Mailata",TRUE,FALSE,FALSE,0
+1,7,"In the 2018 NFL draft, Terrell Edmunds was drafted by the Pittsburgh Steelers ",TRUE,FALSE,TRUE,1
+1,8,"In the 2018 NFL draft, Baker Mayfield was drafted in the Linebacker position by the Cleveland Browns",TRUE,FALSE,FALSE,0
+1,9,"In the 2018 NFL draft, the defending Super Bowl champions traded away their pick in the first round",TRUE,FALSE,TRUE,1
+1,10,"In the 2018 NFL draft, the Washington Redskins were the team with the last pick of the draft",TRUE,FALSE,TRUE,1
+1,11,"In the 2017 NFL draft, the New England Patriots had only two draft picks that year",TRUE,FALSE,FALSE,0
+1,12,"In the 2017 NFL draft, more two players were selected from Texas A&M",TRUE,FALSE,TRUE,1
+1,13,"In the 2017 NFL draft, the Big Ten was one of the athletic conferences where no players were drafted that year",TRUE,FALSE,FALSE,0
+1,14,"In the 2017 NFL draft, more than two players were drafted from Clemson University",TRUE,FALSE,TRUE,1
+1,15,"In the 2017 NFL draft, more than four players were drafted from James Madison University that year",TRUE,FALSE,FALSE,0
+1,16,"In the 2017 NFL draft, the Chicago Bears drafted Adam Shaheen",TRUE,FALSE,TRUE,1
+1,17,"In the 2017 NFL draft, the New York Giants were penalized in the draft",TRUE,FALSE,TRUE,1
+1,18,"In the 2017 NFL draft, the Minnesota Vikings had less than 12 draft picks that year",TRUE,FALSE,FALSE,0
+1,19,"In the 2017 NFL draft, the four special teams players drafted consisted of three kickers and one long snapper",TRUE,FALSE,TRUE,1
+1,20,"In the 2017 NFL draft, the Denver Broncos drafted Trey Quinn as the last pick of the draft",TRUE,FALSE,FALSE,0
+1,21,"In the 2016 NFL draft, the Tennessee Titans were supposed to have the second pick in the draft",TRUE,FALSE,FALSE,0
+1,22,"In the 2016 NFL draft, Carson Wentz was the only player to be drafted from North Dakota State University that year",TRUE,FALSE,FALSE,0
+1,23,"In the 2016 NFL draft, wide receiver Mortiz Bohringer was drafted by the San Francisco 49ers",TRUE,FALSE,FALSE,0
+1,24,"In the 2016 NFL draft, kicker Roberto Aguayo was drafted by the Tampa Bay Buccaneers",TRUE,FALSE,TRUE,1
+1,25,"In the 2016 NFL draft, the 2015 Heisman Trophy winner, Derrick Henry, was drafted by the Baltimore Ravens",TRUE,FALSE,FALSE,0
+1,26,"In the 2016 NFL draft, Ohio State University had the most players selected",TRUE,FALSE,TRUE,1
+1,27,"In the 2016 NFL draft, more than two teams were forced to forfeit at least one draft pick that year",TRUE,FALSE,TRUE,1
+1,28,"In the 2016 NFL draft, Rico Gathers was drafted by the Oakland Raiders",TRUE,FALSE,FALSE,0
+1,29,"In the 2016 NFL draft, David Onyemata was drafted by the New Orleans Saints",TRUE,FALSE,TRUE,1
+1,30,"In the 2016 NFL draft, the Tennessee Titans drafted Kalan Reed as the last pick of the draft",TRUE,FALSE,TRUE,1
+1,31,"In NFL rules, a player performing a chop block will be penalized by the loss of 25 yards",TRUE,FALSE,FALSE,0
+1,32,"In NFL rules, a player who wears illegal equipment is to be suspended for the next two games",TRUE,FALSE,FALSE,0
+1,33,"In NFL rules, a delay of game penalty at the start of either half is a 5-yard penalty",TRUE,FALSE,FALSE,0
+1,34,"In NFL rules, the penalty for attempting to use more than 3 timeouts in a half is 5 yards",TRUE,FALSE,TRUE,1
+1,35,"In NFL rules, when holding is committed by the defense, the penalty five yards and an automatic first down",TRUE,FALSE,TRUE,1
+1,36,"In NFL rules, the penalty for the first onside kick going out of bounds is 5 yards",TRUE,FALSE,TRUE,1
+1,37,"In NFL rules, pass interference and neutral zone infractions are penalties that can go against both the offense and the defense",TRUE,FALSE,TRUE,1
+1,38,"In NFL rules, the penalty for leaping is 5 yards when it is committed by the defense",TRUE,FALSE,FALSE,0
+1,39,"In NFL rules, when an intentional grounding penalty is called at midfield, the other team automatically gets possession",TRUE,FALSE,TRUE,1
+1,40,"In NFL rules, the penalty for any action which delays the next play is an automatic first down",TRUE,FALSE,FALSE,0
+1,41,"In NFL, a sack is when a quarterback or other player on offense gets tackled in their own end zone",TRUE,FALSE,FALSE,0
+1,42,"In NFL, the quarterback is permitted to change the play if he doesn't like what he sees in the defense",TRUE,FALSE,TRUE,1
+1,43,"In NFL, a ""three and out"" refers to when three wide receivers set up in the formation",TRUE,FALSE,FALSE,0
+1,44,"In NFL, there 7 rounds in the draft, with the worst-performing NFL team from the previous year choosing first, and the best-performing NFL team the previous year choosing last",TRUE,FALSE,TRUE,1
+1,45,"In NFL, a ""Hail Mary"" is a play in which the receivers are all sent downfield towards the end zone ",TRUE,FALSE,TRUE,1
+1,46,"In NFL, a ""two-point conversion"" is a play a team attempts instead of kicking a one-point conversion immediately after it scores a touchdown",TRUE,FALSE,TRUE,1
+1,47,"In NFL, Vince Lombardi led the Green Bay Packers to three consecutive Super Bowl victories",TRUE,FALSE,FALSE,0
+1,48,"In NFL, the red zone refers to the opponent team's end zone",TRUE,FALSE,FALSE,0
+1,49,"In NFL, the first team to ever win the Super Bowl was the Green Bay Packers",TRUE,FALSE,TRUE,1
+1,50,"In NFL, centres and linebackers are usually numbered between 70-79",TRUE,FALSE,FALSE,0
+1,51,Voluntary muscles are controlled by the cerebrum,TRUE,FALSE,TRUE,1
+1,52,Selective breeding results in a smaller gene pool,TRUE,FALSE,TRUE,1
+1,53,Suffocation is the main cause of death from avalanches,TRUE,FALSE,TRUE,1
+1,54,Hormones are transported around the body via the peripheral nervous system,TRUE,FALSE,FALSE,0
+1,55,Increased pressure speeds up the rate of chemical reactions in both gases and liquids,TRUE,FALSE,FALSE,0
+1,56,Transition elements are commonly used as catalysts in chemical reactions,TRUE,FALSE,TRUE,1
+1,57,The maximum number of electrons in the first electron shell is 2,TRUE,FALSE,TRUE,1
+1,58,Plant cells are easier to clone than animal cells,TRUE,FALSE,TRUE,1
+1,59,Secondary industries dominate the market in emerging economies,TRUE,FALSE,FALSE,0
+1,60,Scurvy and anemia are diseases not caused by bacteria or viruses,TRUE,FALSE,TRUE,1
+1,61,Sedimentary rock typically form as a result of extremely high pressure or heat,TRUE,FALSE,FALSE,0
+1,62,Photosynthesis is an example of an endothermic reaction,TRUE,FALSE,TRUE,1
+1,63,Organisms working together to gain an advantage in competition is an example of parasitism,TRUE,FALSE,FALSE,0
+1,64,A catalyst has no effect on the equilibrium of a chemical system,TRUE,FALSE,TRUE,1
+1,65,Combustion reactions are typically irreversible,TRUE,FALSE,TRUE,1
+1,66,Epinephrine is a hormone prescribed to treat diabetes,TRUE,FALSE,FALSE,0
+1,67,A country's carbon footprint measures their impact on the environment,TRUE,FALSE,TRUE,1
+1,68,"When contours on a map are very close together, it indicates a steep slope",TRUE,FALSE,TRUE,1
+1,69,Earthquakes and volcanoes typically occur at the boundaries of tectonic plates,TRUE,FALSE,TRUE,1
+1,70,"When international aid is given directly from one country to another, it is called multilateral aid",TRUE,FALSE,FALSE,0
+1,71,One disadvantage of biofuels is that they are carbon neutral,TRUE,FALSE,FALSE,0
+1,72,Deforestation is considered one of the main contributors to the greenhouse effect,TRUE,FALSE,TRUE,1
+1,73,Sensory neurons are responsible for sending messages from the brain to different glands in the body,TRUE,FALSE,FALSE,0
+1,74,The core of the earth is the hotter than its outer layers,TRUE,FALSE,TRUE,1
+1,75,Skin and bones are two organs that form part of the auxiliary nervous system,TRUE,FALSE,FALSE,0
+1,76,Some vaccines contain the live pathogen that has been treated to make it harmless,TRUE,FALSE,TRUE,1
+1,77,Elements in the standard periodic table are arranged in terms of atomic mass,TRUE,FALSE,FALSE,0
+1,78,Bacteria are the primary source of energy for most food chains,TRUE,FALSE,FALSE,0
+1,79,The mass of an element equals the number of protons and electrons in one atom,TRUE,FALSE,FALSE,0
+1,80,"As the temperature increases, the solubility of gasses increases",TRUE,FALSE,FALSE,0
+1,81,There are four covalent bonds involved in a methane molecule,TRUE,FALSE,TRUE,1
+1,82,Electrolysis is the process of splitting substances up using heat energy,TRUE,FALSE,FALSE,0
+1,83,Random mutations in DNA are a common cause of mass extinction in a species,TRUE,FALSE,FALSE,0
+1,84,Most of the Nitrogen that plants use are absorbed through their roots,TRUE,FALSE,TRUE,1
+1,85,The amount of water in the body is regulated primarily via thyroid gland,TRUE,FALSE,FALSE,0
+1,86,Hurricanes usually only form if the sea temperature is less than 80 degrees Fahrenheit,TRUE,FALSE,FALSE,0
+1,87,"Isotopes have the same number of protons, but different number of neutrons",TRUE,FALSE,TRUE,1
+1,88,A substance with a pH of 8 is a strong acid,TRUE,FALSE,FALSE,0
+1,89,Pressure directly affects the solubility of gases in water,TRUE,FALSE,TRUE,1
+1,90,An alkali is a substance that produces hydrogen ions when added to water,TRUE,FALSE,FALSE,0
+1,91,Hydrocarbates are essential to a balanced human diet,TRUE,FALSE,FALSE,0
+1,92,Selective breeding results in an increased risk of diseases in the population,TRUE,FALSE,TRUE,1
+1,93,The main impact of deforestation is the loss of habitat for various living species,TRUE,FALSE,TRUE,1
+1,94,A subsistence farmer is a farmer who focuses on raising animals and growing crops to feed their family,TRUE,FALSE,TRUE,1
+1,95,Antibiotics are ineffective against viruses,TRUE,FALSE,TRUE,1
+1,96,"During photosynthesis, chemical energy is converted into light energy",TRUE,FALSE,FALSE,0
+1,97,Decane splitting into octane and ethene is an example of a polymerization reaction,TRUE,FALSE,FALSE,0
+1,98,Darwin's theory was not widely accepted when it was first published in the late 19th century,TRUE,FALSE,TRUE,1
+1,99,Voluntary muscle messages are processed in the medulla of the brain,TRUE,FALSE,FALSE,0
+1,100,Metallic bonds are typically stronger than covalent bonds,TRUE,FALSE,FALSE,0
+2,1,"In the 2018 NFL draft, Mark Andrews was drafted by the Minnesota Vikings",TRUE,FALSE,FALSE,0
+2,2,"In the 2018 NFL draft, Alabama was one of the schools with no players drafted that year",TRUE,FALSE,FALSE,0
+2,3,"In the 2018 NFL draft, the New York Giants were the only team to draft a player out of FCS champion North Dakota State University",TRUE,FALSE,FALSE,0
+2,4,"In the 2018 NFL draft, Nathan Shepard was drafted by the New York Jets",TRUE,FALSE,TRUE,1
+2,5,"In the 2018 NFL draft, the Baltimore Ravens were the team to have the most draft picks that year",TRUE,FALSE,TRUE,1
+2,6,"In the 2018 NFL draft, the Los Angeles Rams drafted Jordan Mailata",TRUE,FALSE,FALSE,0
+2,7,"In the 2018 NFL draft, Terrell Edmunds was drafted by the Pittsburgh Steelers ",TRUE,FALSE,TRUE,1
+2,8,"In the 2018 NFL draft, Baker Mayfield was drafted in the Linebacker position by the Cleveland Browns",TRUE,FALSE,FALSE,0
+2,9,"In the 2018 NFL draft, the defending Super Bowl champions traded away their pick in the first round",TRUE,FALSE,TRUE,1
+2,10,"In the 2018 NFL draft, the Washington Redskins were the team with the last pick of the draft",TRUE,FALSE,TRUE,1
+2,11,"In the 2017 NFL draft, the New England Patriots had only two draft picks that year",TRUE,FALSE,FALSE,0
+2,12,"In the 2017 NFL draft, more than two players were selected from Texas A&M",TRUE,FALSE,TRUE,1
+2,13,"In the 2017 NFL draft, the Big Ten was one of the athletic conferences where no players were drafted that year",TRUE,FALSE,FALSE,0
+2,14,"In the 2017 NFL draft, more than two players were drafted from Clemson University",TRUE,FALSE,TRUE,1
+2,15,"In the 2017 NFL draft, more than four players were drafted from James Madison University that year",TRUE,FALSE,FALSE,0
+2,16,"In the 2017 NFL draft, the Chicago Bears drafted Adam Shaheen",TRUE,FALSE,TRUE,1
+2,17,"In the 2017 NFL draft, the New York Giants were penalized in the draft",TRUE,FALSE,TRUE,1
+2,18,"In the 2017 NFL draft, the Minnesota Vikings had less than 12 draft picks that year",TRUE,FALSE,FALSE,0
+2,19,"In the 2017 NFL draft, the four special teams players drafted consisted of three kickers and one long snapper",TRUE,FALSE,TRUE,1
+2,20,"In the 2017 NFL draft, the Denver Broncos drafted Trey Quinn as the last pick of the draft",TRUE,FALSE,FALSE,0
+2,21,"In the 2016 NFL draft, the Tennessee Titans were supposed to have the second pick in the draft",TRUE,FALSE,FALSE,0
+2,22,"In the 2016 NFL draft, Carson Wentz was the only player to be drafted from North Dakota State University that year",TRUE,FALSE,FALSE,0
+2,23,"In the 2016 NFL draft, wide receiver Mortiz Bohringer was drafted by the San Francisco 49ers",TRUE,FALSE,FALSE,0
+2,24,"In the 2016 NFL draft, kicker Roberto Aguayo was drafted by the Tampa Bay Buccaneers",TRUE,FALSE,TRUE,1
+2,25,"In the 2016 NFL draft, the 2015 Heisman Trophy winner, Derrick Henry, was drafted by the Baltimore Ravens",TRUE,FALSE,FALSE,0
+2,26,"In the 2016 NFL draft, Ohio State University had the most players selected",TRUE,FALSE,TRUE,1
+2,27,"In the 2016 NFL draft, more than two teams were forced to forfeit at least one draft pick that year",TRUE,FALSE,TRUE,1
+2,28,"In the 2016 NFL draft, Rico Gathers was drafted by the Oakland Raiders",TRUE,FALSE,FALSE,0
+2,29,"In the 2016 NFL draft, David Onyemata was drafted by the New Orleans Saints",TRUE,FALSE,TRUE,1
+2,30,"In the 2016 NFL draft, the Tennessee Titans drafted Kalan Reed as the last pick of the draft",TRUE,FALSE,TRUE,1
+2,31,"In NFL rules, a player performing a chop block will be penalized by the loss of 25 yards",TRUE,FALSE,FALSE,0
+2,32,"In NFL rules, a player who wears illegal equipment is to be suspended for the next two games",TRUE,FALSE,FALSE,0
+2,33,"In NFL rules, a delay of game penalty at the start of either half is a 5-yard penalty",TRUE,FALSE,FALSE,0
+2,34,"In NFL rules, the penalty for attempting to use more than 3 timeouts in a half is 5 yards",TRUE,FALSE,TRUE,1
+2,35,"In NFL rules, when holding is committed by the defense, the penalty five yards and an automatic first down",TRUE,FALSE,TRUE,1
+2,36,"In NFL rules, the penalty for the first onside kick going out of bounds is 5 yards",TRUE,FALSE,TRUE,1
+2,37,"In NFL rules, pass interference and neutral zone infractions are penalties that can go against both the offense and the defense",TRUE,FALSE,TRUE,1
+2,38,"In NFL rules, the penalty for leaping is 5 yards when it is committed by the defense",TRUE,FALSE,FALSE,0
+2,39,"In NFL rules, when an intentional grounding penalty is called at midfield, the other team automatically gets possession",TRUE,FALSE,TRUE,1
+2,40,"In NFL rules, the penalty for any action which delays the next play is an automatic first down",TRUE,FALSE,FALSE,0
+2,41,"In NFL, a sack is when a quarterback or other player on offense gets tackled in their own end zone",TRUE,FALSE,FALSE,0
+2,42,"In NFL, the quarterback is permitted to change the play if he doesn't like what he sees in the defense",TRUE,FALSE,TRUE,1
+2,43,"In NFL, a ""three and out"" refers to when three wide receivers set up in the formation",TRUE,FALSE,FALSE,0
+2,44,"In NFL, there 7 rounds in the draft, with the worst-performing NFL team from the previous year choosing first, and the best-performing NFL team the previous year choosing last",TRUE,FALSE,TRUE,1
+2,45,"In NFL, a ""Hail Mary"" is a play in which the receivers are all sent downfield towards the end zone ",TRUE,FALSE,TRUE,1
+2,46,"In NFL, a ""two-point conversion"" is a play a team attempts instead of kicking a one-point conversion immediately after it scores a touchdown",TRUE,FALSE,TRUE,1
+2,47,"In NFL, Vince Lombardi led the Green Bay Packers to three consecutive Super Bowl victories",TRUE,FALSE,FALSE,0
+2,48,"In NFL, the red zone refers to the opponent team's end zone",TRUE,FALSE,FALSE,0
+2,49,"In NFL, the first team to ever win the Super Bowl was the Green Bay Packers",TRUE,FALSE,TRUE,1
+2,50,"In NFL, centres and linebackers are usually numbered between 70-79",TRUE,FALSE,FALSE,0
+2,51,Voluntary muscles are controlled by the cerebrum,TRUE,FALSE,TRUE,1
+2,52,Selective breeding results in a smaller gene pool,TRUE,FALSE,TRUE,1
+2,53,Suffocation is the main cause of death from avalanches,TRUE,FALSE,TRUE,1
+2,54,Hormones are transported around the body via the peripheral nervous system,TRUE,FALSE,FALSE,0
+2,55,Increased pressure speeds up the rate of chemical reactions in both gases and liquids,TRUE,FALSE,FALSE,0
+2,56,Transition elements are commonly used as catalysts in chemical reactions,TRUE,FALSE,TRUE,1
+2,57,The maximum number of electrons in the first electron shell is 2,TRUE,FALSE,TRUE,1
+2,58,Plant cells are easier to clone than animal cells,TRUE,FALSE,TRUE,1
+2,59,Secondary industries dominate the market in emerging economies,TRUE,FALSE,FALSE,0
+2,60,Scurvy and anemia are diseases not caused by bacteria or viruses,TRUE,FALSE,TRUE,1
+2,61,Sedimentary rock typically form as a result of extremely high pressure or heat,TRUE,FALSE,FALSE,0
+2,62,Photosynthesis is an example of an endothermic reaction,TRUE,FALSE,TRUE,1
+2,63,Organisms working together to gain an advantage in competition is an example of parasitism,TRUE,FALSE,FALSE,0
+2,64,A catalyst has no effect on the equilibrium of a chemical system,TRUE,FALSE,TRUE,1
+2,65,Combustion reactions are typically irreversible,TRUE,FALSE,TRUE,1
+2,66,Epinephrine is a hormone prescribed to treat diabetes,TRUE,FALSE,FALSE,0
+2,67,A country's carbon footprint measures their impact on the environment,TRUE,FALSE,TRUE,1
+2,68,"When contours on a map are very close together, it indicates a steep slope",TRUE,FALSE,TRUE,1
+2,69,Earthquakes and volcanoes typically occur at the boundaries of tectonic plates,TRUE,FALSE,TRUE,1
+2,70,"When international aid is given directly from one country to another, it is called multilateral aid",TRUE,FALSE,FALSE,0
+2,71,One disadvantage of biofuels is that they are carbon neutral,TRUE,FALSE,FALSE,0
+2,72,Deforestation is considered one of the main contributors to the greenhouse effect,TRUE,FALSE,TRUE,1
+2,73,Sensory neurons are responsible for sending messages from the brain to different glands in the body,TRUE,FALSE,FALSE,0
+2,74,The core of the earth is the hotter than its outer layers,TRUE,FALSE,TRUE,1
+2,75,Skin and bones are two organs that form part of the auxiliary nervous system,TRUE,FALSE,FALSE,0
+2,76,Some vaccines contain the live pathogen that has been treated to make it harmless,TRUE,FALSE,TRUE,1
+2,77,Elements in the standard periodic table are arranged in terms of atomic mass,TRUE,FALSE,FALSE,0
+2,78,Bacteria are the primary source of energy for most food chains,TRUE,FALSE,FALSE,0
+2,79,The mass of an element equals the number of protons and electrons in one atom,TRUE,FALSE,FALSE,0
+2,80,"As the temperature increases, the solubility of gasses increases",TRUE,FALSE,FALSE,0
+2,81,There are four covalent bonds involved in a methane molecule,TRUE,FALSE,TRUE,1
+2,82,Electrolysis is the process of splitting substances up using heat energy,TRUE,FALSE,FALSE,0
+2,83,Random mutations in DNA are a common cause of mass extinction in a species,TRUE,FALSE,FALSE,0
+2,84,Most of the Nitrogen that plants use are absorbed through their roots,TRUE,FALSE,TRUE,1
+2,85,The amount of water in the body is regulated primarily via thyroid gland,TRUE,FALSE,FALSE,0
+2,86,Hurricanes usually only form if the sea temperature is less than 80 degrees Fahrenheit,TRUE,FALSE,FALSE,0
+2,87,"Isotopes have the same number of protons, but different number of neutrons",TRUE,FALSE,TRUE,1
+2,88,A substance with a pH of 8 is a strong acid,TRUE,FALSE,FALSE,0
+2,89,Pressure directly affects the solubility of gases in water,TRUE,FALSE,TRUE,1
+2,90,An alkali is a substance that produces hydrogen ions when added to water,TRUE,FALSE,FALSE,0
+2,91,Hydrocarbates are essential to a balanced human diet,TRUE,FALSE,FALSE,0
+2,92,Selective breeding results in an increased risk of diseases in the population,TRUE,FALSE,TRUE,1
+2,93,The main impact of deforestation is the loss of habitat for various living species,TRUE,FALSE,TRUE,1
+2,94,A subsistence farmer is a farmer who focuses on raising animals and growing crops to feed their family,TRUE,FALSE,TRUE,1
+2,95,Antibiotics are ineffective against viruses,TRUE,FALSE,TRUE,1
+2,96,"During photosynthesis, chemical energy is converted into light energy",TRUE,FALSE,FALSE,0
+2,97,Decane splitting into octane and ethene is an example of a polymerization reaction,TRUE,FALSE,FALSE,0
+2,98,Darwin's theory was not widely accepted when it was first published in the late 19th century,TRUE,FALSE,TRUE,1
+2,99,Voluntary muscle messages are processed in the medulla of the brain,TRUE,FALSE,FALSE,0
+2,100,Metallic bonds are typically stronger than covalent bonds,TRUE,FALSE,FALSE,0
+2,101,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule also. What action would be the most effective for Lee?",Explain the urgency of the situation to the workmate,Work harder to compensate,Explain the urgency of the situation to the workmate,1
+2,102,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates. What action would be the most effective for Rhea?",Join a playgroup or social group of new mothers,"Try to see her old workmates socially, inviting them out",Join a playgroup or social group of new mothers,1
+2,103,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it. What action would be the most effective for Pete?,Speak to his boss about this,Speak to his workmates about this,Speak to his boss about this,1
+2,104,"Mario is showing Min, a new employee, how the system works. Mario's boss walks by and announces Mario is wrong about several points, as changes have been made. Mario gets on well with his boss, although they don't normally have much to do with each other. What action would be the most effective for Mario?","Make a joke to Min, explaining he didn't know about the changes",Learn the new changes,Learn the new changes,0
+2,105,Wai-Hin and Connie have shared an office for years but Wai-Hin gets a new job and Connie loses contact with her. What action would be the most effective for Connie?,"Spend time getting to know the other people in the office, and strike up new friendships",Contact Wai-Hin and arrange to catch up but also make friends with her replacement,Contact Wai-Hin and arrange to catch up but also make friends with her replacement,0
+2,106,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying. What action would be the most effective for Martina?",Find alternative travel arrangements,See a doctor about this,See a doctor about this,0
+2,107,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role. What action would be the most effective for Manual?",Talk to his boss or the management about it,Carefully consider his options and discuss it with his family,Carefully consider his options and discuss it with his family,0
+2,108,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue. What action would be the most effective for Alan?",Diffuse the argument by asking for advice,Apologize to Trudy,Diffuse the argument by asking for advice,1
+2,109,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly. What action would be the most effective for Surbhi?,Make an effort to talk to people and be friendly himself,Concentrate on doing his work well at the new job,Make an effort to talk to people and be friendly himself,1
+2,110,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area. What action would be the most effective for Darla?",Practice presenting to laypeople such as friends or family,"Work on her presentation, simplifying the explanations","Work on her presentation, simplifying the explanations",0
+2,111,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would. What action would be the most effective for Andre?,"He should make the effort to contact them, but also try to meet people in his new city",Try to adjust to life in the new city by joining clubs and activities there,"He should make the effort to contact them, but also try to meet people in his new city",1
+2,112,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project. What action would be the most effective for Helga?,Tell the other team they must re-do their work,Tell the project manager about the situation,Tell the project manager about the situation,0
+2,113,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out. What action would be the most effective for Clayton?,Tell his family he feels left out,Spend time listening and getting involved again,Spend time listening and getting involved again,0
+2,114,"Katerina takes a long time to set the DVD timer. With the family watching, her sister says “You idiot, you're doing it all wrong, can't you work the video?” Katerina is quite close to her sister and family. What action would be the most effective for Katerina?",Get her sister to help or to do it,Ignore her sister and keep at the task,Get her sister to help or to do it,1
+2,115,Benjiro's parents are in their late 80s and living interstate in a house by themselves. He is worried that they need some help but they angrily deny it any time he brings up the subject. What action would be the most effective for Benjiro?,Visit frequently and get others to check on them,"Keep telling his parents his concerns, stressing their importance",Visit frequently and get others to check on them,1
+2,116,"Max prides himself on his work being of the highest quality. On a joint project, other people do a lousy job, assuming that Max will fix their mistakes. What action would be the most effective for Max?","Confront the others, and tell them they must fix their mistakes",Tell the project manager about the situation,"Confront the others, and tell them they must fix their mistakes",1
+2,117,"Daniel has been accepted for a prestigious position in a different country from his family, who he is close to. He and his wife decide it is worth relocating. What action would be the most effective for Daniel?",Think about the great opportunities this change offers,"Set up a system for staying in touch, like weekly phone calls or emails","Set up a system for staying in touch, like weekly phone calls or emails",0
+2,118,A junior employee making routine adjustments to some of Teo's equipment accuses Teo of causing the equipment malfunction. What action would be the most effective for Teo?,"Ignore the accusation, it is not important",Explain that malfunctions were not his fault,Explain that malfunctions were not his fault,0
+2,119,Mei Ling answers the phone and hears that close relatives are in hospital critically ill. What action would be the most effective for Mei Ling?,"Speak to other family to calm herself and find out what is happening, then visit the hospital",Let herself cry and express emotion for as long as she feels like,"Speak to other family to calm herself and find out what is happening, then visit the hospital",1
+2,120,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology. What action would be the most effective for Celia?,Tell her that this is unacceptable,Ask for an explanation of her lateness,Ask for an explanation of her lateness,0
+2,121,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on water-polo training, which he was quite good at. Although he enjoys full-time study, he misses training. What action would be the most effective for Vincent?",See if there is a local league or a less expensive and less time-consuming sport,Find out about sporting scholarships or bursaries,See if there is a local league or a less expensive and less time-consuming sport,1
+2,122,Evan's housemate cooked food late at night and left a huge mess in the kitchen that Evan discovered at breakfast. What action would be the most effective for Evan?,Tell his housemate to clean up the mess,Ask his housemate that this not happen again,Ask his housemate that this not happen again,0
+2,123,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them. What action would be the most effective for Greg?,Study hard and attend all lectures,Talk to others in his situation,Talk to others in his situation,0
+2,124,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues. What action would be the most effective for Gloria?",Tell her housemates she has a problem with this,Introduce a new system for grocery shopping and sharing costs,Tell her housemates she has a problem with this,1
+2,125,"Shona has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he can only talk for five minutes. What action would be the most effective for Shona?","Understand that relationships change, but keep calling him from time to time",Make plans to drop by and visit him in person and have a good chat,"Understand that relationships change, but keep calling him from time to time",1
+2,126,Moshe finds out that some members of his social sports team have been saying that he is not a very good player. What action would be the most effective for Moshe?,"Although he may be bad at sport, remember he is good at other things",Do some extra training to try and improve,Do some extra training to try and improve,0
+2,127,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs. What action would be the most effective for Joel?,Do good work so that he will be given the complex tasks in future,Ask his boss why the co-worker was given the job,Ask his boss why the co-worker was given the job,0
+2,128,Hasina is overseas when she finds out that her father has passed away from an illness he has had for years. What action would be the most effective for Hasina?,Think deeply about the more profound meaning of this loss,Contact her close relatives for information and support,Contact her close relatives for information and support,0
+2,129,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting. What action would be the most effective for Mina?",Tell her sister-in-law these comments upset her,"Tell her only to baby-sit, not to clean",Tell her sister-in-law these comments upset her,1
+2,130,Billy is nervous about acting a scene when there are a lot of very experienced actors in the crowd. What action would be the most effective for Billy?,Use some acting techniques to clam his nerves,Believe in himself and know it will be fine,Use some acting techniques to calm his nerves,1
+2,131,Juno is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said. What action would be the most effective for Juno?,Think of these events as an opportunity for a new start,Find out what is happening and discuss his concerns with his family,Find out what is happening and discuss his concerns with his family,0
+2,132,"Mallory moves from a small company to a very large one, where there is little personal contact, which she misses. What action would be the most effective for Mallory?",Concentrate on her outside-work friends and colleagues from previous jobs,"Talk to her workmates, try to create social contacts and make friends","Talk to her workmates, try to create social contacts and make friends",0
+2,133,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Although Jill's boss assures her that her performance is fine, Jill feels upset. What action would be the most effective for Jill?",Think that she has been successful in the past and this client being difficult is not her fault,Calm down by taking deep breaths or going for a short walk,Think that she has been successful in the past and this client being difficult is not her fault,1
+2,134,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks. What action would be the most effective for Flynn?",Go to the cafe or socialize with other workers,"Invite Blair again, maybe rescheduling for another time","Invite Blair again, maybe rescheduling for another time",0
+2,135,"Jerry has had several short-term jobs in the same industry, but is excited about starting a job in a different industry. His father casually remarks that he will probably last six months. What action would be the most effective for Jerry?",Tell his father he is completely wrong,Prove him wrong by working hard to succeed at the new job,Prove him wrong by working hard to succeed at the new job,0
+2,136,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back. What action would be the most effective for Michelle?,"Make sure she keeps in contact through email, phone or letter writing","Spend time with other friends, keeping herself busy","Make sure she keeps in contact through email, phone or letter writing",1
+2,137,Dorian needs to have some prostate surgery and is quite scared about the process. He has heard that it is quite painful. What action would be the most effective for Dorian?,Talk to his doctor about what will happen,Keep busy in the meantime so he doesn't think about the impending surgery,Talk to his doctor about what will happen,1
+2,138,Hannah's access to essential resources has been delayed and her work is way behind schedule. Her progress report makes no mention of the lack of resources. What action would be the most effective for Hannah?,Document the lack of resources in her progress report,Explain the lack of resources to her boss or to management,Document the lack of resources in her progress report,1
+2,139,"Jill is given an official warning for entering a restricted area. She was never informed that the area was restricted and will lose her job if she gets two more warnings, which she thinks is unfair. What action would be the most effective for Jill?",Explain that she didn't know it was restricted,Accept the warning and be careful not to go in restricted areas from now on,Explain that she didn't know it was restricted,1
+2,140,"Alana has been acting in a high-ranking role for several months. A decision is made that only long-term employees can now act in these roles, and Alana has not been with the company long enough to do so. What action would be the most effective for Alana?",Ask management if an exception can be made,Quit that position,Ask management if an exception can be made,1
+2,141,Reece's friend points out that her young children seem to be developing more quickly than Reece's. Reece sees that this is true. What action would be the most effective for Reece?,Realize that children develop at different rates,Talk to a doctor about what the normal rates of development are,Talk to a doctor about what the normal rates of development are,0
+2,142,"Jumah has been working at a new job part-time while he studies. His shift times for the week are changed at the last minute, without consulting him. What action would be the most effective for Jumah?",Find out if there is some reasonable explanation for the shift changes,Tell the manager in charge of shifts that he is not happy about it,Find out if there is some reasonable explanation for the shift changes,1
+2,143,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it. What action would be the most effective for Jacob?,Accept that things aren't going to be perfect but the family will understand,Prepare ahead of time so he has everything he needs available,Prepare ahead of time so he has everything he needs available,0
+2,144,"Julie hasn't seen Ka for ages and looks forward to their weekend trip away. However, Ka has changed a lot and Julie finds that she is no longer an interesting companion. What action would be the most effective for Julie?","Concentrate on her other, more rewarding friendships","Understand that people change, so move on, but remember the good times","Understand that people change, so move on, but remember the good times",0
+2,145,"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but has in fact used the money for less serious purposes. Song is most likely to feel?",Contempt,Anger,Contempt,1
+2,146,"Edna's workmate organizes a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",Surprise,Gratitude,Gratitude,0
+2,147,"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",Pride,Joy,Joy,0
+2,148,Garry's small business is attracting less and less clients and he can't tell why. There doesn't seem to be anything he can do to help matters. Garry is most likely to feel?,Distressed,Sad,Distressed,1
+2,149,"The new manager at Enid's work changes everyone's hours to a less flexible work pattern, leaving no room for discussion. Enid is most likely to feel?",Rage,Dislike,Dislike,0
+2,150,Rashid needs to meet a quota before his performance review. There is only a small chance that he will be able to do so and there isn't much he can do to improve the outcome. Rashid is most likely to feel?,Scared,Hopeful,Scared,1
+3a,1,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ex2wG46TgDVFhvn""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,2,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3pHgWd7EBv2pmId""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,3,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3vAvHrmRf1kVH25""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,4,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cCskAV37eggp2Dj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,5,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e9UHVVtcqccHVel""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,6,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_8qtY35T40bAycjH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,7,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_errNBLsPqSh8PJ3""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,8,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_56jIKrGPeKzN8nH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,9,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6WqDd1wX0exneXH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,10,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_73qiDsVSHlH1hrL""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,11,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6m3CrWkdVGbAmTb""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,12,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cU7jTgp708KO4ol""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,13,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d4hZtiXcUDAwP2t""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,14,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9nQkIbDudoXTDsF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,15,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d0yMJWTz8liiw7z""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,16,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eOJeNAi7tvmjnjD""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,17,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5d5J1cJbaltkXu5""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,18,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3Ep9l5tEqb1dAH3""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,19,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3UEyXy3d5YKur8V""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,20,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0iZfoA4xDjEHQNf""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3a,21,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_b7b8YPZxocoejXv""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,22,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bylOQ2Zf0zOBguF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,23,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_elHYTkJPWUaq7MV""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,24,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_4SJFzbsd3O4VcWh""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,25,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bylZExAVO5kBGYt""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,26,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6g7Fb0180xHYd3D""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,27,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_daqP0YlheVsmPgF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,28,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_2lEsXyfHIHhsIUR""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,29,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_73xATKRWVayT25v""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,30,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVuZ2JLi4aOPu4d""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,31,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ekrj7acLddVFWLj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,32,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6VGwrQwadmCNkFL""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,33,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ehUAtSYmdJfOgDj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,34,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eP2n0euWqflTYaN""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,35,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5A12eRFJsUxHp0F""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,36,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_czOCnvGcoBKx3z7""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,37,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9B28ukXhx9HQtM1""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,38,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_8wwT5Ya2307L9AN""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,39,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_571FunhErKvyIpD""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,40,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_a8BOXowX9aWfn37""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3a,41,Voluntary muscles are controlled by the cerebrum,TRUE,FALSE,TRUE,1
+3a,42,Hormones are transported around the body via the peripheral nervous system,TRUE,FALSE,FALSE,0
+3a,43,Increased pressure speeds up the rate of chemical reactions in both gases and liquids,TRUE,FALSE,FALSE,0
+3a,44,Transition elements are commonly used as catalysts in chemical reactions,TRUE,FALSE,TRUE,1
+3a,45,The maximum number of electrons in the first electron shell is 2,TRUE,FALSE,TRUE,1
+3a,46,Plant cells are easier to clone than animal cells,TRUE,FALSE,TRUE,1
+3a,47,Secondary industries dominate the market in emerging economies,TRUE,FALSE,FALSE,0
+3a,48,Scurvy and anemia are diseases not caused by bacteria or viruses,TRUE,FALSE,TRUE,1
+3a,49,Sedimentary rock typically form as a result of extremely high pressure or heat,TRUE,FALSE,FALSE,0
+3a,50,Photosynthesis is an example of an endothermic reaction,TRUE,FALSE,TRUE,1
+3a,51,Organisms working together to gain an advantage in competition is an example of parasitism,TRUE,FALSE,FALSE,0
+3a,52,A catalyst has no effect on the equilibrium of a chemical system,TRUE,FALSE,TRUE,1
+3a,53,Epinephrine is a hormone prescribed to treat diabetes,TRUE,FALSE,FALSE,0
+3a,54,"When contours on a map are very close together, it indicates a steep slope",TRUE,FALSE,TRUE,1
+3a,55,"When international aid is given directly from one country to another, it is called multilateral aid",TRUE,FALSE,FALSE,0
+3a,56,One disadvantage of biofuels is that they are carbon neutral,TRUE,FALSE,FALSE,0
+3a,57,Deforestation is considered one of the main contributors to the greenhouse effect,TRUE,FALSE,TRUE,1
+3a,58,Sensory neurons are responsible for sending messages from the brain to different glands in the body,TRUE,FALSE,FALSE,0
+3a,59,Skin and bones are two organs that form part of the auxiliary nervous system,TRUE,FALSE,FALSE,0
+3a,60,Some vaccines contain the live pathogen that has been treated to make it harmless,TRUE,FALSE,TRUE,1
+3a,61,Elements in the standard periodic table are arranged in terms of atomic mass,TRUE,FALSE,FALSE,0
+3a,62,Bacteria are the primary source of energy for most food chains,TRUE,FALSE,FALSE,0
+3a,63,The mass of an element equals the number of protons and electrons in one atom,TRUE,FALSE,FALSE,0
+3a,64,"As the temperature increases, the solubility of gasses increases",TRUE,FALSE,FALSE,0
+3a,65,There are four covalent bonds involved in a methane molecule,TRUE,FALSE,TRUE,1
+3a,66,Electrolysis is the process of splitting substances up using heat energy,TRUE,FALSE,FALSE,0
+3a,67,Random mutations in DNA are a common cause of mass extinction in a species,TRUE,FALSE,FALSE,0
+3a,68,Most of the Nitrogen that plants use are absorbed through their roots,TRUE,FALSE,TRUE,1
+3a,69,The amount of water in the body is regulated primarily via thyroid gland,TRUE,FALSE,FALSE,0
+3a,70,Hurricanes usually only form if the sea temperature is less than 80 degrees Fahrenheit,TRUE,FALSE,FALSE,0
+3a,71,A substance with a pH of 8 is a strong acid,TRUE,FALSE,FALSE,0
+3a,72,An alkali is a substance that produces hydrogen ions when added to water,TRUE,FALSE,FALSE,0
+3a,73,Hydrocarbates are essential to a balanced human diet,TRUE,FALSE,FALSE,0
+3a,74,Selective breeding results in an increased risk of diseases in the population,TRUE,FALSE,TRUE,1
+3a,75,Antibiotics are ineffective against viruses,TRUE,FALSE,TRUE,1
+3a,76,"During photosynthesis, chemical energy is converted into light energy",TRUE,FALSE,FALSE,0
+3a,77,Decane splitting into octane and ethene is an example of a polymerization reaction,TRUE,FALSE,FALSE,0
+3a,78,Darwin's theory was not widely accepted when it was first published in the late 19th century,TRUE,FALSE,TRUE,1
+3a,79,Voluntary muscle messages are processed in the medulla of the brain,TRUE,FALSE,FALSE,0
+3a,80,Metallic bonds are typically stronger than covalent bonds,TRUE,FALSE,FALSE,0
+3a,81,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule also. What action would be the most effective for Lee?",Explain the urgency of the situation to the workmate,Work harder to compensate,Explain the urgency of the situation to the workmate,1
+3a,82,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates. What action would be the most effective for Rhea?",Join a playgroup or social group of new mothers,"Try to see her old workmates socially, inviting them out",Join a playgroup or social group of new mothers,1
+3a,83,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it. What action would be the most effective for Pete?,Speak to his boss about this,Speak to his workmates about this,Speak to his boss about this,1
+3a,84,"Mario is showing Min, a new employee, how the system works. Mario's boss walks by and announces Mario is wrong about several points, as changes have been made. Mario gets on well with his boss, although they don't normally have much to do with each other. What action would be the most effective for Mario?","Make a joke to Min, explaining he didn't know about the changes",Learn the new changes,Learn the new changes,0
+3a,85,Wai-Hin and Connie have shared an office for years but Wai-Hin gets a new job and Connie loses contact with her. What action would be the most effective for Connie?,"Spend time getting to know the other people in the office, and strike up new friendships",Contact Wai-Hin and arrange to catch up but also make friends with her replacement,Contact Wai-Hin and arrange to catch up but also make friends with her replacement,0
+3a,86,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying. What action would be the most effective for Martina?",Find alternative travel arrangements,See a doctor about this,See a doctor about this,0
+3a,87,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role. What action would be the most effective for Manual?",Talk to his boss or the management about it,Carefully consider his options and discuss it with his family,Carefully consider his options and discuss it with his family,0
+3a,88,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue. What action would be the most effective for Alan?",Diffuse the argument by asking for advice,Apologize to Trudy,Diffuse the argument by asking for advice,1
+3a,89,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly. What action would be the most effective for Surbhi?,Make an effort to talk to people and be friendly himself,Concentrate on doing his work well at the new job,Make an effort to talk to people and be friendly himself,1
+3a,90,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area. What action would be the most effective for Darla?",Practice presenting to laypeople such as friends or family,"Work on her presentation, simplifying the explanations","Work on her presentation, simplifying the explanations",0
+3a,91,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would. What action would be the most effective for Andre?,"He should make the effort to contact them, but also try to meet people in his new city",Try to adjust to life in the new city by joining clubs and activities there,"He should make the effort to contact them, but also try to meet people in his new city",1
+3a,92,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project. What action would be the most effective for Helga?,Tell the other team they must re-do their work,Tell the project manager about the situation,Tell the project manager about the situation,0
+3a,93,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out. What action would be the most effective for Clayton?,Tell his family he feels left out,Spend time listening and getting involved again,Spend time listening and getting involved again,0
+3a,94,"Max prides himself on his work being of the highest quality. On a joint project, other people do a lousy job, assuming that Max will fix their mistakes. What action would be the most effective for Max?","Confront the others, and tell them they must fix their mistakes",Tell the project manager about the situation,"Confront the others, and tell them they must fix their mistakes",1
+3a,95,"Daniel has been accepted for a prestigious position in a different country from his family, who he is close to. He and his wife decide it is worth relocating. What action would be the most effective for Daniel?",Think about the great opportunities this change offers,"Set up a system for staying in touch, like weekly phone calls or emails","Set up a system for staying in touch, like weekly phone calls or emails",0
+3a,96,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology. What action would be the most effective for Celia?,Tell her that this is unacceptable,Ask for an explanation of her lateness,Ask for an explanation of her lateness,0
+3a,97,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on water-polo training, which he was quite good at. Although he enjoys full-time study, he misses training. What action would be the most effective for Vincent?",See if there is a local league or a less expensive and less time-consuming sport,Find out about sporting scholarships or bursaries,See if there is a local league or a less expensive and less time-consuming sport,1
+3a,98,Evan's housemate cooked food late at night and left a huge mess in the kitchen that Evan discovered at breakfast. What action would be the most effective for Evan?,Tell his housemate to clean up the mess,Ask his housemate that this not happen again,Ask his housemate that this not happen again,0
+3a,99,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them. What action would be the most effective for Greg?,Study hard and attend all lectures,Talk to others in his situation,Talk to others in his situation,0
+3a,100,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues. What action would be the most effective for Gloria?",Tell her housemates she has a problem with this,Introduce a new system for grocery shopping and sharing costs,Tell her housemates she has a problem with this,1
+3a,101,"Shona has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he can only talk for five minutes. What action would be the most effective for Shona?","Understand that relationships change, but keep calling him from time to time",Make plans to drop by and visit him in person and have a good chat,"Understand that relationships change, but keep calling him from time to time",1
+3a,102,Moshe finds out that some members of his social sports team have been saying that he is not a very good player. What action would be the most effective for Moshe?,"Although he may be bad at sport, remember he is good at other things",Do some extra training to try and improve,Do some extra training to try and improve,0
+3a,103,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs. What action would be the most effective for Joel?,Do good work so that he will be given the complex tasks in future,Ask his boss why the co-worker was given the job,Ask his boss why the co-worker was given the job,0
+3a,104,Hasina is overseas when she finds out that her father has passed away from an illness he has had for years. What action would be the most effective for Hasina?,Think deeply about the more profound meaning of this loss,Contact her close relatives for information and support,Contact her close relatives for information and support,0
+3a,105,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting. What action would be the most effective for Mina?",Tell her sister-in-law these comments upset her,"Tell her only to baby-sit, not to clean",Tell her sister-in-law these comments upset her,1
+3a,106,Billy is nervous about acting a scene when there are a lot of very experienced actors in the crowd. What action would be the most effective for Billy?,Use some acting techniques to clam his nerves,Believe in himself and know it will be fine,Use some acting techniques to clam his nerves,1
+3a,107,Juno is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said. What action would be the most effective for Juno?,Think of these events as an opportunity for a new start,Find out what is happening and discuss his concerns with his family,Find out what is happening and discuss his concerns with his family,0
+3a,108,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Although Jill's boss assures her that her performance is fine, Jill feels upset. What action would be the most effective for Jill?",Think that she has been successful in the past and this client being difficult is not her fault,Calm down by taking deep breaths or going for a short walk,Think that she has been successful in the past and this client being difficult is not her fault,1
+3a,109,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks. What action would be the most effective for Flynn?",Go to the cafe or socialize with other workers,"Invite Blair again, maybe rescheduling for another time","Invite Blair again, maybe rescheduling for another time",0
+3a,110,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back. What action would be the most effective for Michelle?,"Make sure she keeps in contact through email, phone or letter writing","Spend time with other friends, keeping herself busy","Make sure she keeps in contact through email, phone or letter writing",1
+3a,111,Hannah's access to essential resources has been delayed and her work is way behind schedule. Her progress report makes no mention of the lack of resources. What action would be the most effective for Hannah?,Document the lack of resources in her progress report,Explain the lack of resources to her boss or to management,Document the lack of resources in her progress report,1
+3a,112,"Jill is given an official warning for entering a restricted area. She was never informed that the area was restricted and will lose her job if she gets two more warnings, which she thinks is unfair. What action would be the most effective for Jill?",Explain that she didn't know it was restricted,Accept the warning and be careful not to go in restricted areas from now on,Explain that she didn't know it was restricted,1
+3a,113,"Alana has been acting in a high-ranking role for several months. A decision is made that only long-term employees can now act in these roles, and Alana has not been with the company long enough to do so. What action would be the most effective for Alana?",Ask management if an exception can be made,Quit that position,Ask management if an exception can be made,1
+3a,114,Reece's friend points out that her young children seem to be developing more quickly than Reece's. Reece sees that this is true. What action would be the most effective for Reece?,Realize that children develop at different rates,Talk to a doctor about what the normal rates of development are,Talk to a doctor about what the normal rates of development are,0
+3a,115,"Jumah has been working at a new job part-time while he studies. His shift times for the week are changed at the last minute, without consulting him. What action would be the most effective for Jumah?",Find out if there is some reasonable explanation for the shift changes,Tell the manager in charge of shifts that he is not happy about it,Find out if there is some reasonable explanation for the shift changes,1
+3a,116,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it. What action would be the most effective for Jacob?,Accept that things aren't going to be perfect but the family will understand,Prepare ahead of time so he has everything he needs available,Prepare ahead of time so he has everything he needs available,0
+3a,117,"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but has in fact used the money for less serious purposes. Song is most likely to feel?",Contempt,Anger,Contempt,1
+3a,118,"Edna's workmate organizes a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",Surprise,Gratitude,Gratitude,0
+3a,119,"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",Pride,Joy,Joy,0
+3a,120,Rashid needs to meet a quota before his performance review. There is only a small chance that he will be able to do so and there isn't much he can do to improve the outcome. Rashid is most likely to feel?,Scared,Hopeful,Scared,1
+3b,1,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ex2wG46TgDVFhvn""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,2,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3pHgWd7EBv2pmId""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,3,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3vAvHrmRf1kVH25""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,4,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cCskAV37eggp2Dj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,5,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_e9UHVVtcqccHVel""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,6,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_8qtY35T40bAycjH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,7,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_errNBLsPqSh8PJ3""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,8,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_56jIKrGPeKzN8nH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,9,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6WqDd1wX0exneXH""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,10,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_73qiDsVSHlH1hrL""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,11,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6m3CrWkdVGbAmTb""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,12,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cU7jTgp708KO4ol""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,13,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d4hZtiXcUDAwP2t""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,14,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9nQkIbDudoXTDsF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,15,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d0yMJWTz8liiw7z""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,16,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eOJeNAi7tvmjnjD""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,17,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5d5J1cJbaltkXu5""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,18,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3Ep9l5tEqb1dAH3""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,19,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3UEyXy3d5YKur8V""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,20,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0iZfoA4xDjEHQNf""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,FALSE,0
+3b,21,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_b7b8YPZxocoejXv""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,22,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bylOQ2Zf0zOBguF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,23,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_elHYTkJPWUaq7MV""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,24,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_4SJFzbsd3O4VcWh""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,25,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bylZExAVO5kBGYt""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,26,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6g7Fb0180xHYd3D""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,27,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_daqP0YlheVsmPgF""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,28,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_2lEsXyfHIHhsIUR""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,29,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_73xATKRWVayT25v""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,30,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eVuZ2JLi4aOPu4d""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,31,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ekrj7acLddVFWLj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,32,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6VGwrQwadmCNkFL""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,33,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_ehUAtSYmdJfOgDj""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,34,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eP2n0euWqflTYaN""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,35,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_5A12eRFJsUxHp0F""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,36,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_czOCnvGcoBKx3z7""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,37,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_9B28ukXhx9HQtM1""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,38,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_8wwT5Ya2307L9AN""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,39,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_571FunhErKvyIpD""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,40,"<img src=""https://melbourneuni.au1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_a8BOXowX9aWfn37""> <br> The market value of this original artwork is more than $10,000 USD.",TRUE,FALSE,TRUE,1
+3b,41,Voluntary muscles are controlled by the cerebrum,TRUE,FALSE,TRUE,1
+3b,42,Hormones are transported around the body via the peripheral nervous system,TRUE,FALSE,FALSE,0
+3b,43,Increased pressure speeds up the rate of chemical reactions in both gases and liquids,TRUE,FALSE,FALSE,0
+3b,44,Transition elements are commonly used as catalysts in chemical reactions,TRUE,FALSE,TRUE,1
+3b,45,The maximum number of electrons in the first electron shell is 2,TRUE,FALSE,TRUE,1
+3b,46,Plant cells are easier to clone than animal cells,TRUE,FALSE,TRUE,1
+3b,47,Secondary industries dominate the market in emerging economies,TRUE,FALSE,FALSE,0
+3b,48,Scurvy and anemia are diseases not caused by bacteria or viruses,TRUE,FALSE,TRUE,1
+3b,49,Sedimentary rock typically form as a result of extremely high pressure or heat,TRUE,FALSE,FALSE,0
+3b,50,Photosynthesis is an example of an endothermic reaction,TRUE,FALSE,TRUE,1
+3b,51,Organisms working together to gain an advantage in competition is an example of parasitism,TRUE,FALSE,FALSE,0
+3b,52,A catalyst has no effect on the equilibrium of a chemical system,TRUE,FALSE,TRUE,1
+3b,53,Epinephrine is a hormone prescribed to treat diabetes,TRUE,FALSE,FALSE,0
+3b,54,"When contours on a map are very close together, it indicates a steep slope",TRUE,FALSE,TRUE,1
+3b,55,"When international aid is given directly from one country to another, it is called multilateral aid",TRUE,FALSE,FALSE,0
+3b,56,One disadvantage of biofuels is that they are carbon neutral,TRUE,FALSE,FALSE,0
+3b,57,Deforestation is considered one of the main contributors to the greenhouse effect,TRUE,FALSE,TRUE,1
+3b,58,Sensory neurons are responsible for sending messages from the brain to different glands in the body,TRUE,FALSE,FALSE,0
+3b,59,Skin and bones are two organs that form part of the auxiliary nervous system,TRUE,FALSE,FALSE,0
+3b,60,Some vaccines contain the live pathogen that has been treated to make it harmless,TRUE,FALSE,TRUE,1
+3b,61,Elements in the standard periodic table are arranged in terms of atomic mass,TRUE,FALSE,FALSE,0
+3b,62,Bacteria are the primary source of energy for most food chains,TRUE,FALSE,FALSE,0
+3b,63,The mass of an element equals the number of protons and electrons in one atom,TRUE,FALSE,FALSE,0
+3b,64,"As the temperature increases, the solubility of gasses increases",TRUE,FALSE,FALSE,0
+3b,65,There are four covalent bonds involved in a methane molecule,TRUE,FALSE,TRUE,1
+3b,66,Electrolysis is the process of splitting substances up using heat energy,TRUE,FALSE,FALSE,0
+3b,67,Random mutations in DNA are a common cause of mass extinction in a species,TRUE,FALSE,FALSE,0
+3b,68,Most of the Nitrogen that plants use are absorbed through their roots,TRUE,FALSE,TRUE,1
+3b,69,The amount of water in the body is regulated primarily via thyroid gland,TRUE,FALSE,FALSE,0
+3b,70,Hurricanes usually only form if the sea temperature is less than 80 degrees Fahrenheit,TRUE,FALSE,FALSE,0
+3b,71,A substance with a pH of 8 is a strong acid,TRUE,FALSE,FALSE,0
+3b,72,An alkali is a substance that produces hydrogen ions when added to water,TRUE,FALSE,FALSE,0
+3b,73,Hydrocarbates are essential to a balanced human diet,TRUE,FALSE,FALSE,0
+3b,74,Selective breeding results in an increased risk of diseases in the population,TRUE,FALSE,TRUE,1
+3b,75,Antibiotics are ineffective against viruses,TRUE,FALSE,TRUE,1
+3b,76,"During photosynthesis, chemical energy is converted into light energy",TRUE,FALSE,FALSE,0
+3b,77,Decane splitting into octane and ethene is an example of a polymerization reaction,TRUE,FALSE,FALSE,0
+3b,78,Darwin's theory was not widely accepted when it was first published in the late 19th century,TRUE,FALSE,TRUE,1
+3b,79,Voluntary muscle messages are processed in the medulla of the brain,TRUE,FALSE,FALSE,0
+3b,80,Metallic bonds are typically stronger than covalent bonds,TRUE,FALSE,FALSE,0
+3b,81,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule also. What action would be the most effective for Lee?",Explain the urgency of the situation to the workmate,Work harder to compensate,Explain the urgency of the situation to the workmate,1
+3b,82,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates. What action would be the most effective for Rhea?",Join a playgroup or social group of new mothers,"Try to see her old workmates socially, inviting them out",Join a playgroup or social group of new mothers,1
+3b,83,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it. What action would be the most effective for Pete?,Speak to his boss about this,Speak to his workmates about this,Speak to his boss about this,1
+3b,84,"Mario is showing Min, a new employee, how the system works. Mario's boss walks by and announces Mario is wrong about several points, as changes have been made. Mario gets on well with his boss, although they don't normally have much to do with each other. What action would be the most effective for Mario?","Make a joke to Min, explaining he didn't know about the changes",Learn the new changes,Learn the new changes,0
+3b,85,Wai-Hin and Connie have shared an office for years but Wai-Hin gets a new job and Connie loses contact with her. What action would be the most effective for Connie?,"Spend time getting to know the other people in the office, and strike up new friendships",Contact Wai-Hin and arrange to catch up but also make friends with her replacement,Contact Wai-Hin and arrange to catch up but also make friends with her replacement,0
+3b,86,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying. What action would be the most effective for Martina?",Find alternative travel arrangements,See a doctor about this,See a doctor about this,0
+3b,87,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role. What action would be the most effective for Manual?",Talk to his boss or the management about it,Carefully consider his options and discuss it with his family,Carefully consider his options and discuss it with his family,0
+3b,88,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue. What action would be the most effective for Alan?",Diffuse the argument by asking for advice,Apologize to Trudy,Diffuse the argument by asking for advice,1
+3b,89,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly. What action would be the most effective for Surbhi?,Make an effort to talk to people and be friendly himself,Concentrate on doing his work well at the new job,Make an effort to talk to people and be friendly himself,1
+3b,90,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area. What action would be the most effective for Darla?",Practice presenting to laypeople such as friends or family,"Work on her presentation, simplifying the explanations","Work on her presentation, simplifying the explanations",0
+3b,91,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would. What action would be the most effective for Andre?,"He should make the effort to contact them, but also try to meet people in his new city",Try to adjust to life in the new city by joining clubs and activities there,"He should make the effort to contact them, but also try to meet people in his new city",1
+3b,92,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project. What action would be the most effective for Helga?,Tell the other team they must re-do their work,Tell the project manager about the situation,Tell the project manager about the situation,0
+3b,93,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out. What action would be the most effective for Clayton?,Tell his family he feels left out,Spend time listening and getting involved again,Spend time listening and getting involved again,0
+3b,94,"Max prides himself on his work being of the highest quality. On a joint project, other people do a lousy job, assuming that Max will fix their mistakes. What action would be the most effective for Max?","Confront the others, and tell them they must fix their mistakes",Tell the project manager about the situation,"Confront the others, and tell them they must fix their mistakes",1
+3b,95,"Daniel has been accepted for a prestigious position in a different country from his family, who he is close to. He and his wife decide it is worth relocating. What action would be the most effective for Daniel?",Think about the great opportunities this change offers,"Set up a system for staying in touch, like weekly phone calls or emails","Set up a system for staying in touch, like weekly phone calls or emails",0
+3b,96,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology. What action would be the most effective for Celia?,Tell her that this is unacceptable,Ask for an explanation of her lateness,Ask for an explanation of her lateness,0
+3b,97,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on water-polo training, which he was quite good at. Although he enjoys full-time study, he misses training. What action would be the most effective for Vincent?",See if there is a local league or a less expensive and less time-consuming sport,Find out about sporting scholarships or bursaries,See if there is a local league or a less expensive and less time-consuming sport,1
+3b,98,Evan's housemate cooked food late at night and left a huge mess in the kitchen that Evan discovered at breakfast. What action would be the most effective for Evan?,Tell his housemate to clean up the mess,Ask his housemate that this not happen again,Ask his housemate that this not happen again,0
+3b,99,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them. What action would be the most effective for Greg?,Study hard and attend all lectures,Talk to others in his situation,Talk to others in his situation,0
+3b,100,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues. What action would be the most effective for Gloria?",Tell her housemates she has a problem with this,Introduce a new system for grocery shopping and sharing costs,Tell her housemates she has a problem with this,1
+3b,101,"Shona has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he can only talk for five minutes. What action would be the most effective for Shona?","Understand that relationships change, but keep calling him from time to time",Make plans to drop by and visit him in person and have a good chat,"Understand that relationships change, but keep calling him from time to time",1
+3b,102,Moshe finds out that some members of his social sports team have been saying that he is not a very good player. What action would be the most effective for Moshe?,"Although he may be bad at sport, remember he is good at other things",Do some extra training to try and improve,Do some extra training to try and improve,0
+3b,103,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs. What action would be the most effective for Joel?,Do good work so that he will be given the complex tasks in future,Ask his boss why the co-worker was given the job,Ask his boss why the co-worker was given the job,0
+3b,104,Hasina is overseas when she finds out that her father has passed away from an illness he has had for years. What action would be the most effective for Hasina?,Think deeply about the more profound meaning of this loss,Contact her close relatives for information and support,Contact her close relatives for information and support,0
+3b,105,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting. What action would be the most effective for Mina?",Tell her sister-in-law these comments upset her,"Tell her only to baby-sit, not to clean",Tell her sister-in-law these comments upset her,1
+3b,106,Billy is nervous about acting a scene when there are a lot of very experienced actors in the crowd. What action would be the most effective for Billy?,Use some acting techniques to clam his nerves,Believe in himself and know it will be fine,Use some acting techniques to clam his nerves,1
+3b,107,Juno is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said. What action would be the most effective for Juno?,Think of these events as an opportunity for a new start,Find out what is happening and discuss his concerns with his family,Find out what is happening and discuss his concerns with his family,0
+3b,108,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Although Jill's boss assures her that her performance is fine, Jill feels upset. What action would be the most effective for Jill?",Think that she has been successful in the past and this client being difficult is not her fault,Calm down by taking deep breaths or going for a short walk,Think that she has been successful in the past and this client being difficult is not her fault,1
+3b,109,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks. What action would be the most effective for Flynn?",Go to the cafe or socialize with other workers,"Invite Blair again, maybe rescheduling for another time","Invite Blair again, maybe rescheduling for another time",0
+3b,110,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back. What action would be the most effective for Michelle?,"Make sure she keeps in contact through email, phone or letter writing","Spend time with other friends, keeping herself busy","Make sure she keeps in contact through email, phone or letter writing",1
+3b,111,Hannah's access to essential resources has been delayed and her work is way behind schedule. Her progress report makes no mention of the lack of resources. What action would be the most effective for Hannah?,Document the lack of resources in her progress report,Explain the lack of resources to her boss or to management,Document the lack of resources in her progress report,1
+3b,112,"Jill is given an official warning for entering a restricted area. She was never informed that the area was restricted and will lose her job if she gets two more warnings, which she thinks is unfair. What action would be the most effective for Jill?",Explain that she didn't know it was restricted,Accept the warning and be careful not to go in restricted areas from now on,Explain that she didn't know it was restricted,1
+3b,113,"Alana has been acting in a high-ranking role for several months. A decision is made that only long-term employees can now act in these roles, and Alana has not been with the company long enough to do so. What action would be the most effective for Alana?",Ask management if an exception can be made,Quit that position,Ask management if an exception can be made,1
+3b,114,Reece's friend points out that her young children seem to be developing more quickly than Reece's. Reece sees that this is true. What action would be the most effective for Reece?,Realize that children develop at different rates,Talk to a doctor about what the normal rates of development are,Talk to a doctor about what the normal rates of development are,0
+3b,115,"Jumah has been working at a new job part-time while he studies. His shift times for the week are changed at the last minute, without consulting him. What action would be the most effective for Jumah?",Find out if there is some reasonable explanation for the shift changes,Tell the manager in charge of shifts that he is not happy about it,Find out if there is some reasonable explanation for the shift changes,1
+3b,116,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it. What action would be the most effective for Jacob?,Accept that things aren't going to be perfect but the family will understand,Prepare ahead of time so he has everything he needs available,Prepare ahead of time so he has everything he needs available,0
+3b,117,"Song finds out that a friend of hers has borrowed money from others to pay urgent bills, but has in fact used the money for less serious purposes. Song is most likely to feel?",Contempt,Anger,Contempt,1
+3b,118,"Edna's workmate organizes a goodbye party for Edna, who is going on holidays. Edna is most likely to feel?",Surprise,Gratitude,Gratitude,0
+3b,119,"Kevin has been working at his current job for a few years. Out of the blue, he finds that he will receive a promotion. Kevin is most likely to feel?",Pride,Joy,Joy,0
+3b,120,Rashid needs to meet a quota before his performance review. There is only a small chance that he will be able to do so and there isn't much he can do to improve the outcome. Rashid is most likely to feel?,Scared,Hopeful,Scared,1
