@@ -1,4 +1,4 @@
-# Sample Markdown
+# Supplemental Material for "Peer betting to elicit unverifiable information" by Aurelien Baillon, Cem Peker and Sophie van der Zee
 
 This is some basic, sample markdown.
 
