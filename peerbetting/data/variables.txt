@@ -1,0 +1,69 @@
+
+########################################## RAW DATA & VARIABLES
+
+This file provides information on the variables in the experimental data. 
+
+
+
+################### RAW DATA & DATA PROCESSING
+
+Studies 1 and 2 are identified by "s1" and "s2" respectively. Then,
+"studyID_qualtrics.csv": raw choice data collected by the qualtrics survey for each subject.
+"studyID_prolific.csv": subject data recorded by Prolific.
+"studyID_rewards" or "studyID_bonus": bonuses and total reward for each subject.
+
+R scripts "study1_analysis.R" and "study2_analysis.R" read Qualtrics and Prolific data from the folder "rawdata" and construct a long form data set (subject & task) for analyses.
+For Study 1, function constructData() in study1_analysis.R generates "s1_data.csv"
+For Study 2, function readData() in study2_analysis.R generates "s2_data.csv"
+
+
+
+################### DATA SETS FOR ANALYSES
+
+"s1_data.csv": Study 1 data, includes subjects' treatment, picks, effort decision and demographics.
+"s2_data.csv": Study 2 data, includes subjects' treatment/week, responses and demographics.
+"s2_week0.csv": Study 2 week 0 data, provides the "% last week" data used in Flat-PastRate and PPM treatments in week 1. See "study2_week0.R" for the calculation of these percentages from the raw week 0 data.  
+
+More information on the variables in s1_data.csv and s2_data.csv are given below
+
+
+
+################### STUDY 1 VARIABLES (s1_data.csv)
+
+condition: Subject's treatment, Flat, Acuracy or PPM.
+PROLIFIC_PID: Unique subject ID (string), assigned by Prolific.
+task: Unique task ID, X1...X10 for tasks 1 to 10.
+effort: Binary indicator for effort task completion, 1 if subject completed the effort task, 0 otherwise.
+effort_time: How long did it take for the subject to complete the effort task, in seconds.
+draw: The color of subject's signal (observed only if effort=1).
+pick: Binary variable, subject's pick, 1 = left box picked, 0 = right box picked
+age: Subject's age (numeric).
+female: 1 if the subject is female, 0 if male.
+US_resident: 1 if the subject is a US resident, 0 otherwise.
+duration: Total time the subject spent in the experiment, in seconds.
+training: Self-reported level of training in statistics
+clarity: Self-reported clarity of the instructions, on a scale 1-5.
+quiz: Response to the pre-experiment quiz question (answers coded 1,2 and 3).
+post_quiz: Response to the post-experiment quiz question (answers coded 1,2 and 3).
+quiz_correct: Did the subject pick the correct answer in the pre-experiment quiz? 1 if yes, 0 if no.
+post_quiz_correct: Did the subject pick the correct answer in the post-experiment quiz? 1 if yes, 0 if no.
+min_reward: Minimum reward in the given condition (British pounds).
+avg_reward: Average reward across subjecs in the given condition (British pounds).
+max_reward: Maximum reward in the given condition (British pounds).
+
+
+
+################### STUDY 2 VARIABLES (s2_data.csv)
+
+PROLIFIC_PID: Unique subject ID (string), assigned by Prolific.
+condition: Subject's treatment, Flat, Flat-PastRate or PPM.
+duration.in.seconds: Total time the subject spent in the experiment, in seconds.
+question: Unique ID of the question, 1,2,3,...,8.
+threshold: Which version of the survey? Possible values are "once" and "twice".
+week: Week 1 or 2?
+response: Subject's respone, 1 = True, 0 = False.
+clarity: Self-reported clarity of the instructions, on a scale 1-5.
+response_time: Response time in the corresping question, in seconds.
+age: Subject's age (numeric).
+female: 1 if the subject is female, 0 if male.
+UK_citizen: 1 if the subject is a UK citizen, 0 otherwise.
